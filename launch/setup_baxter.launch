@@ -1,0 +1,17 @@
+<launch>
+
+  <!-- Setup Baxter -->
+  
+  <!-- Re-enable+enable to robot -->
+  <node pkg="baxter_uncertainty" type="enable_baxter.sh" name="enable_baxter" />
+
+  <!-- Disable the sonars -->
+  <node pkg="rostopic" type="rostopic" name="disable_sonars" args="pub /robot/sonar/head_sonar/set_sonars_enabled std_msgs/UInt16 0" />
+
+  <!-- Disable collision avoidance -->
+  <!-- Left arm -->
+  <node pkg="rostopic" type="rostopic" name="disable_left_arm_collision_avoidance" args="pub /robot/limb/left/suppress_collision_avoidance std_msgs/Empty -r 10" />
+  <!-- Right arm -->
+  <node pkg="rostopic" type="rostopic" name="disable_right_arm_collision_avoidance" args="pub /robot/limb/right/suppress_collision_avoidance std_msgs/Empty -r 10" />
+
+</launch>
