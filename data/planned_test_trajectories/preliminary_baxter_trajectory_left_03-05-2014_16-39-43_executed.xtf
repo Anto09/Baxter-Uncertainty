@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trajectory uid="baxter_trajectory_left_03-05-2014_16-39-43_executed.xtf">
+  <info generator="baxter_FJTA" robot="baxter">
+    <type data_type="joint" timing="timed" traj_type="recorded">
+      <joint_names>left_s0, left_s1, left_e0, left_e1, left_w0, left_w1, left_w2</joint_names>
+    </type>
+    <tags/>
+  </info>
+  <states length="14">
+    <state nsecs="0" secs="0" sequence="0">
+      <desired>
+        <position>0.0303061848762, 0.636150051157, -0.881096161492, 2.10468564447, -2.16503567914, 1.81374159559, -1.61823204449</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position/>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="use_grc" type="boolean" value="false"/>
+      <extra name="state_cost" type="double" value="inf"/>
+    </state>
+    <state nsecs="641548130" secs="0" sequence="1">
+      <desired>
+        <position>-0.0281597463288, 0.62455679309, -0.914101335627, 2.0016676493, -2.17900383176, 1.74358317423, -1.6664025449</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position/>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="use_grc" type="boolean" value="false"/>
+      <extra name="state_cost" type="double" value="inf"/>
+    </state>
+    <state nsecs="23096259" secs="1" sequence="2">
+      <desired>
+        <position>-0.0866256775339, 0.612963535022, -0.947106509762, 1.89864965414, -2.19297198438, 1.67342475288, -1.71457304532</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position/>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="use_grc" type="boolean" value="false"/>
+      <extra name="state_cost" type="double" value="inf"/>
+    </state>
+    <state nsecs="404644390" secs="1" sequence="3">
+      <desired>
+        <position>-0.145091608739, 0.601370276954, -0.980111683898, 1.79563165897, -2.206940137, 1.60326633152, -1.76274354573</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position/>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="use_grc" type="boolean" value="false"/>
+      <extra name="state_cost" type="double" value="inf"/>
+    </state>
+    <state nsecs="786192520" secs="1" sequence="4">
+      <desired>
+        <position>-0.203557539944, 0.589777018886, -1.01311685803, 1.69261366381, -2.22090828962, 1.53310791017, -1.81091404615</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position/>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="use_grc" type="boolean" value="false"/>
+      <extra name="state_cost" type="double" value="inf"/>
+    </state>
+    <state nsecs="167740650" secs="2" sequence="5">
+      <desired>
+        <position>-0.262023471149, 0.578183760818, -1.04612203217, 1.58959566864, -2.23487644224, 1.46294948881, -1.85908454656</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position/>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="use_grc" type="boolean" value="false"/>
+      <extra name="state_cost" type="double" value="inf"/>
+    </state>
+    <state nsecs="549288781" secs="2" sequence="6">
+      <desired>
+        <position>-0.320489402354, 0.56659050275, -1.0791272063, 1.48657767348, -2.24884459486, 1.39279106746, -1.90725504697</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position/>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="use_grc" type="boolean" value="false"/>
+      <extra name="state_cost" type="double" value="inf"/>
+    </state>
+    <state nsecs="930836911" secs="2" sequence="7">
+      <desired>
+        <position>-0.378955333559, 0.554997244682, -1.11213238044, 1.38355967831, -2.26281274748, 1.3226326461, -1.95542554739</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position/>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="use_grc" type="boolean" value="false"/>
+      <extra name="state_cost" type="double" value="inf"/>
+    </state>
+    <state nsecs="312385040" secs="3" sequence="8">
+      <desired>
+        <position>-0.437421264764, 0.543403986615, -1.14513755457, 1.28054168315, -2.2767809001, 1.25247422475, -2.0035960478</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position/>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="use_grc" type="boolean" value="false"/>
+      <extra name="state_cost" type="double" value="inf"/>
+    </state>
+    <state nsecs="693933171" secs="3" sequence="9">
+      <desired>
+        <position>-0.495887195969, 0.531810728547, -1.17814272871, 1.17752368798, -2.29074905272, 1.18231580339, -2.05176654821</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position/>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="use_grc" type="boolean" value="false"/>
+      <extra name="state_cost" type="double" value="inf"/>
+    </state>
+    <state nsecs="75481302" secs="4" sequence="10">
+      <desired>
+        <position>-0.554353127174, 0.520217470479, -1.21114790284, 1.07450569282, -2.30471720534, 1.11215738203, -2.09993704863</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position/>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="use_grc" type="boolean" value="false"/>
+      <extra name="state_cost" type="double" value="inf"/>
+    </state>
+    <state nsecs="457029431" secs="4" sequence="11">
+      <desired>
+        <position>-0.612819058379, 0.508624212411, -1.24415307698, 0.971487697654, -2.31868535796, 1.04199896068, -2.14810754904</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position/>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="use_grc" type="boolean" value="false"/>
+      <extra name="state_cost" type="double" value="inf"/>
+    </state>
+    <state nsecs="838577562" secs="4" sequence="12">
+      <desired>
+        <position>-0.671284989584, 0.497030954343, -1.27715825111, 0.868469702489, -2.33265351058, 0.971840539323, -2.19627804946</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position/>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="use_grc" type="boolean" value="false"/>
+      <extra name="state_cost" type="double" value="inf"/>
+    </state>
+    <state nsecs="480125692" secs="5" sequence="13">
+      <desired>
+        <position>-0.729750920789, 0.485437696275, -1.31016342525, 0.765451707325, -2.3466216632, 0.901682117968, -2.24444854987</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position/>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="use_grc" type="boolean" value="false"/>
+      <extra name="state_cost" type="double" value="inf"/>
+    </state>
+  </states>
+</trajectory>
