@@ -1,0 +1,22 @@
+uint8 LEFT_ARM_ONLY=1
+uint8 RIGHT_ARM_ONLY=2
+uint8 BOTH_ARMS=3
+uint8 ArmGradientOption
+uint8 FOUR_CONNECTED=1
+uint8 HYBRID_FOUR_CONNECTED=2
+uint8 SAMPLED_EIGHT_CONNECTED=4
+uint8 GRADIENT_BLACKLIST=8
+uint8 POINT_NEIGHBORS=16
+uint8 ControlGenerationMode
+uint32 MaxControlsToCheck
+uint32 ExpectedCostSamples
+float64 GradientMultiplier
+float64[] LeftArmConfiguration
+float64[] RightArmConfiguration
+---
+uint8 SUCCESS=0
+uint8 INVALID_REQUEST=1
+uint8 GRADIENT_COMPUTATION_FAILURE=2
+uint8 Status
+float64[] LeftArmGradient
+float64[] RightArmGradient
