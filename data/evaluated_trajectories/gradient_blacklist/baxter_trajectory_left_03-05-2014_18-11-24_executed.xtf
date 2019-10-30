@@ -1,0 +1,2578 @@
+<?xml version="1.0" encoding="utf-8"?>
+<trajectory uid="baxter_trajectory_left_03-05-2014_18-11-24_executed.xtf">
+  <info generator="baxter_FJTA" robot="baxter">
+    <type data_type="joint" timing="timed" traj_type="recorded">
+      <joint_names>left_s0, left_s1, left_e0, left_e1, left_w0, left_w1, left_w2</joint_names>
+    </type>
+    <tags/>
+  </info>
+  <states length="151">
+    <state nsecs="0" secs="0" sequence="0">
+      <desired>
+        <position>-0.982078403533, 0.323923039727, -0.672459554216, 0.478301746018, -3.00875615584, 1.00108161984, -2.14547130783</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-0.982078403533, 0.323923039727, -0.672459554216, 0.478301746018, -3.00875615584, 1.00108161984, -2.14547130783</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.982078403533, 0.323923039727, -0.672459554216, 0.478301746018, -3.00875615584, 1.00108161984, -2.14547130783"/>
+      <extra name="reference_cost" type="double" value="6.39009470865"/>
+      <extra name="executed_cost" type="double" value="6.39009470865"/>
+      <extra name="use_grc" type="boolean" value="false"/>
+      <extra name="state_cost" type="double" value="6.39009470865"/>
+    </state>
+    <state nsecs="38168546" secs="0" sequence="0">
+      <desired>
+        <position>-0.98362215105, 0.320990240054, -0.673200135603, 0.486701438984, -3.0073206462, 1.00532551822, -2.14438634991</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.0038919716, 0.298383114906, -0.559323443764, 0.462300786726, -3.12278069171, 1.11956323623, -2.26178257749</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.982508882731, 0.324813506011, -0.673187361817, 0.48354475365, -3.00848174387, 1.00689884817, -2.14407424086"/>
+      <extra name="reference_cost" type="double" value="6.29241936654"/>
+      <extra name="executed_cost" type="double" value="6.70939845219"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.37829131261"/>
+    </state>
+    <state nsecs="76337093" secs="0" sequence="1">
+      <desired>
+        <position>-0.985165898568, 0.318057440381, -0.673940716989, 0.495101131949, -3.00588513655, 1.0095694166, -2.14330139198</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05170610662, 0.297836801973, -0.561950061942, 0.471169948067, -3.17781169087, 1.11229880566, -2.20527838615</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.982939361929, 0.325703972295, -0.673915169418, 0.488787761282, -3.0082073319, 1.01271607651, -2.14267717389"/>
+      <extra name="reference_cost" type="double" value="6.2809446156"/>
+      <extra name="executed_cost" type="double" value="6.97530376539"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.32652750984"/>
+    </state>
+    <state nsecs="114505640" secs="0" sequence="2">
+      <desired>
+        <position>-0.986709646085, 0.315124640708, -0.674681298376, 0.503500824915, -3.00444962691, 1.01381331499, -2.14221643406</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-0.887019436732, 0.333111040242, -0.782667127791, 0.502029429491, -2.87912101207, 1.01943795191, -2.20189324441</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.983369841128, 0.326594438579, -0.674642977019, 0.494030768913, -3.00793291992, 1.01853330484, -2.14128010692"/>
+      <extra name="reference_cost" type="double" value="6.278192617"/>
+      <extra name="executed_cost" type="double" value="5.96117663011"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.38656710461"/>
+    </state>
+    <state nsecs="152674187" secs="0" sequence="3">
+      <desired>
+        <position>-0.988253393603, 0.312191841035, -0.675421879762, 0.51190051788, -3.00301411726, 1.01805721337, -2.14113147613</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05849969611, 0.282687994815, -0.565632035809, 0.488630003823, -3.17545128296, 1.11317579622, -2.2096468719</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.983800320326, 0.327484904862, -0.67537078462, 0.499273776545, -3.00765850795, 1.02435053317, -2.13988303994"/>
+      <extra name="reference_cost" type="double" value="6.3506671004"/>
+      <extra name="executed_cost" type="double" value="6.97813247889"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.38656710461"/>
+    </state>
+    <state nsecs="190842733" secs="0" sequence="4">
+      <desired>
+        <position>-0.98979714112, 0.309259041362, -0.676162461149, 0.520300210846, -3.00157860762, 1.02230111175, -2.14004651821</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.0617013189, 0.282410498603, -0.553076556827, 0.516002004434, -3.1464483921, 1.08580220092, -2.25435025703</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.984230799524, 0.328375371146, -0.67609859222, 0.504516784177, -3.00738409598, 1.03016776151, -2.13848597297"/>
+      <extra name="reference_cost" type="double" value="6.46247049794"/>
+      <extra name="executed_cost" type="double" value="6.84120504558"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.51715546474"/>
+    </state>
+    <state nsecs="229011280" secs="0" sequence="5">
+      <desired>
+        <position>-0.991340888637, 0.306326241689, -0.676903042535, 0.528699903811, -3.00014309797, 1.02654501013, -2.13896156028</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.03994481568, 0.26962571582, -0.534194185775, 0.526579787232, -3.16620742423, 1.0894377396, -2.21978961648</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.984661278722, 0.32926583743, -0.676826399821, 0.509759791809, -3.00710968401, 1.03598498984, -2.137088906"/>
+      <extra name="reference_cost" type="double" value="6.43108873442"/>
+      <extra name="executed_cost" type="double" value="6.89895122126"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.47310901433"/>
+    </state>
+    <state nsecs="267179827" secs="0" sequence="6">
+      <desired>
+        <position>-0.992884636155, 0.303393442017, -0.677643623922, 0.537099596777, -2.99870758833, 1.03078890851, -2.13787660236</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.04848079096, 0.269295674128, -0.535195589561, 0.534845079985, -3.15646019561, 1.09401592964, -2.23306038683</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.98509175792, 0.330156303714, -0.677554207422, 0.51500279944, -3.00683527204, 1.04180221817, -2.13569183903"/>
+      <extra name="reference_cost" type="double" value="6.43590755761"/>
+      <extra name="executed_cost" type="double" value="6.77484962344"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.57424132526"/>
+    </state>
+    <state nsecs="305348374" secs="0" sequence="7">
+      <desired>
+        <position>-0.994428383672, 0.300460642344, -0.678384205308, 0.545499289742, -2.99727207868, 1.03503280689, -2.13679164443</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.04943578318, 0.264334066353, -0.545873687355, 0.545819115473, -3.16318950162, 1.09376109327, -2.23493552292</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.985522237118, 0.331046769998, -0.678282015023, 0.520245807072, -3.00656086007, 1.04761944651, -2.13429477206"/>
+      <extra name="reference_cost" type="double" value="6.47135215998"/>
+      <extra name="executed_cost" type="double" value="6.68628848344"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.57424132526"/>
+    </state>
+    <state nsecs="343516920" secs="0" sequence="8">
+      <desired>
+        <position>-0.995972131189, 0.297527842671, -0.679124786695, 0.553898982708, -2.99583656904, 1.03927670528, -2.13570668651</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.04775257452, 0.263007646734, -0.55049554004, 0.546045222088, -3.15384212766, 1.11483327341, -2.24057991672</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.985952716317, 0.331937236282, -0.679009822624, 0.525488814704, -3.00628644809, 1.05343667484, -2.13289770509"/>
+      <extra name="reference_cost" type="double" value="6.44093353301"/>
+      <extra name="executed_cost" type="double" value="6.84346484393"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.59007255733"/>
+    </state>
+    <state nsecs="381685467" secs="0" sequence="9">
+      <desired>
+        <position>-0.997515878707, 0.294595042998, -0.679865368081, 0.562298675673, -2.9944010594, 1.04352060366, -2.13462172858</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05957768221, 0.273130929029, -0.580366783231, 0.553235417732, -3.12278588012, 1.12467967432, -2.29045774192</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.986383195515, 0.332827702566, -0.679737630225, 0.530731822335, -3.00601203612, 1.05925390317, -2.13150063812"/>
+      <extra name="reference_cost" type="double" value="6.29993951321"/>
+      <extra name="executed_cost" type="double" value="6.88201208413"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.56846058369"/>
+    </state>
+    <state nsecs="419854014" secs="0" sequence="10">
+      <desired>
+        <position>-0.999059626224, 0.291662243325, -0.680605949468, 0.570698368639, -2.99296554975, 1.04776450204, -2.13353677066</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05012410628, 0.251426745945, -0.549666299236, 0.577201071874, -3.16252648252, 1.09446821688, -2.23426143765</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.986813674713, 0.33371816885, -0.680465437826, 0.535974829967, -3.00573762415, 1.0650711315, -2.13010357115"/>
+      <extra name="reference_cost" type="double" value="6.27955747768"/>
+      <extra name="executed_cost" type="double" value="6.76696674526"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.61787223071"/>
+    </state>
+    <state nsecs="458022560" secs="0" sequence="11">
+      <desired>
+        <position>-1.00060337374, 0.288729443652, -0.681346530854, 0.579098061604, -2.99153004011, 1.05200840042, -2.13245181273</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05873115587, 0.256287137329, -0.543622811241, 0.571320116605, -3.14895703834, 1.12521996909, -2.2267116111</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.987244153911, 0.334608635133, -0.681193245426, 0.541217837599, -3.00546321218, 1.07088835984, -2.12870650417"/>
+      <extra name="reference_cost" type="double" value="6.34544934705"/>
+      <extra name="executed_cost" type="double" value="6.93811414391"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.82710817456"/>
+    </state>
+    <state nsecs="496191107" secs="0" sequence="12">
+      <desired>
+        <position>-1.00214712126, 0.285796643979, -0.682087112241, 0.58749775457, -2.99009453046, 1.0562522988, -2.13136685481</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.04940945565, 0.246899410327, -0.567130997739, 0.601173149714, -3.13608003205, 1.09303729363, -2.28189974457</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.987674633109, 0.335499101417, -0.681921053027, 0.546460845231, -3.00518880021, 1.07670558817, -2.1273094372"/>
+      <extra name="reference_cost" type="double" value="6.30980994925"/>
+      <extra name="executed_cost" type="double" value="6.81855152175"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.92637758702"/>
+    </state>
+    <state nsecs="534359654" secs="0" sequence="13">
+      <desired>
+        <position>-1.00369086878, 0.282863844306, -0.682827693627, 0.595897447535, -2.98865902082, 1.06049619719, -2.13028189688</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.06115411632, 0.243789496263, -0.53964106393, 0.600680890302, -3.14881047643, 1.10698316032, -2.22690413966</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.988105112308, 0.336389567701, -0.682648860628, 0.551703852863, -3.00491438823, 1.0825228165, -2.12591237023"/>
+      <extra name="reference_cost" type="double" value="6.27393800393"/>
+      <extra name="executed_cost" type="double" value="6.79964795336"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.94153159112"/>
+    </state>
+    <state nsecs="572528201" secs="0" sequence="14">
+      <desired>
+        <position>-1.00523461629, 0.279931044633, -0.683568275014, 0.604297140501, -2.98722351117, 1.06474009557, -2.12919693896</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.06229697942, 0.240009806557, -0.539797156462, 0.613487603544, -3.1505458864, 1.10250180161, -2.22293304051</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.988535591506, 0.337280033985, -0.683376668229, 0.556946860494, -3.00463997626, 1.08834004484, -2.12451530326"/>
+      <extra name="reference_cost" type="double" value="6.26070970669"/>
+      <extra name="executed_cost" type="double" value="6.73475211486"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.76110995933"/>
+    </state>
+    <state nsecs="610696748" secs="0" sequence="15">
+      <desired>
+        <position>-1.00677836381, 0.27699824496, -0.6843088564, 0.612696833467, -2.98578800153, 1.06898399395, -2.12811198103</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.0566272754, 0.222937253315, -0.54138342407, 0.637480911372, -3.16310535723, 1.06636524783, -2.19464032695</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.988966070704, 0.338170500269, -0.68410447583, 0.562189868126, -3.00436556429, 1.09415727317, -2.12311823629"/>
+      <extra name="reference_cost" type="double" value="6.25027116761"/>
+      <extra name="executed_cost" type="double" value="6.66581316665"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.70020965859"/>
+    </state>
+    <state nsecs="632889372" secs="0" sequence="16">
+      <desired>
+        <position>-1.00577093868, 0.282102640306, -0.682546419847, 0.616647217857, -2.98732264515, 1.07455825409, -2.12403558706</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.04820250038, 0.198967962744, -0.555707882809, 0.657767315089, -3.16281811167, 1.07801080435, -2.17492728061</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.98945804693, 0.339188176022, -0.684936255945, 0.568181876848, -3.00405195061, 1.10080553412, -2.12152158832"/>
+      <extra name="reference_cost" type="double" value="6.26207456365"/>
+      <extra name="executed_cost" type="double" value="7.08247971162"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.59610043839"/>
+    </state>
+    <state nsecs="655081997" secs="0" sequence="17">
+      <desired>
+        <position>-1.00476351355, 0.287207035651, -0.680783983293, 0.620597602247, -2.98885728878, 1.08013251423, -2.11995919308</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.07451025023, 0.241906855588, -0.542754879422, 0.601042671657, -3.13882358212, 1.13058838202, -2.21217853042</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.989950023157, 0.340205851775, -0.685768036061, 0.57417388557, -3.00373833693, 1.10745379507, -2.11992494035"/>
+      <extra name="reference_cost" type="double" value="6.21320386603"/>
+      <extra name="executed_cost" type="double" value="6.94352801517"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.60421431437"/>
+    </state>
+    <state nsecs="677274622" secs="0" sequence="18">
+      <desired>
+        <position>-1.00375608841, 0.292311430996, -0.679021546739, 0.624547986637, -2.9903919324, 1.08570677437, -2.11588279911</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05450077445, 0.264394625586, -0.548393301829, 0.630061437304, -3.15096123512, 1.11396223141, -2.22929290779</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.990441999383, 0.341223527528, -0.686599816176, 0.580165894292, -3.00342472324, 1.11410205603, -2.11832829239"/>
+      <extra name="reference_cost" type="double" value="6.21963774785"/>
+      <extra name="executed_cost" type="double" value="6.57021715119"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.57365883514"/>
+    </state>
+    <state nsecs="699467247" secs="0" sequence="19">
+      <desired>
+        <position>-1.00274866328, 0.297415826342, -0.677259110186, 0.628498371027, -2.99192657603, 1.09128103451, -2.11180640513</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.06648196219, 0.210848066814, -0.550322555466, 0.630163411503, -3.16494726056, 1.11181104733, -2.13736264481</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.99093397561, 0.342241203281, -0.687431596291, 0.586157903014, -3.00311110956, 1.12075031698, -2.11673164442"/>
+      <extra name="reference_cost" type="double" value="6.30503597111"/>
+      <extra name="executed_cost" type="double" value="7.07873258367"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.62512947619"/>
+    </state>
+    <state nsecs="721659872" secs="0" sequence="20">
+      <desired>
+        <position>-1.00174123815, 0.302520221687, -0.675496673632, 0.632448755417, -2.99346121965, 1.09685529465, -2.10773001116</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-0.938334649406, 0.350749031024, -0.825320707679, 0.639539470574, -2.82281475713, 1.09847773717, -2.06386143697</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.991425951836, 0.343258879034, -0.688263376406, 0.592149911736, -3.00279749588, 1.12739857793, -2.11513499645"/>
+      <extra name="reference_cost" type="double" value="6.32574665174"/>
+      <extra name="executed_cost" type="double" value="6.6178877838"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.65888179839"/>
+    </state>
+    <state nsecs="743852497" secs="0" sequence="21">
+      <desired>
+        <position>-1.00073381301, 0.307624617032, -0.673734237078, 0.636399139807, -2.99499586327, 1.10242955479, -2.10365361718</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.06134805678, 0.212099494475, -0.551470953999, 0.614299730751, -3.1584321631, 1.14331378439, -2.11793918951</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.991917928063, 0.344276554787, -0.689095156522, 0.598141920458, -3.0024838822, 1.13404683888, -2.11353834848"/>
+      <extra name="reference_cost" type="double" value="6.30616527423"/>
+      <extra name="executed_cost" type="double" value="7.35072518885"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.63777217269"/>
+    </state>
+    <state nsecs="766045122" secs="0" sequence="22">
+      <desired>
+        <position>-0.999726387882, 0.312729012378, -0.671971800525, 0.640349524197, -2.9965305069, 1.10800381493, -2.09957722321</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.06780997857, 0.285354984295, -0.543364415326, 0.600360222984, -3.15949162429, 1.15279423142, -2.18792318302</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.992409904289, 0.345294230541, -0.689926936637, 0.60413392918, -3.00217026852, 1.14069509983, -2.11194170051"/>
+      <extra name="reference_cost" type="double" value="6.32577864081"/>
+      <extra name="executed_cost" type="double" value="6.69425487146"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.67899869755"/>
+    </state>
+    <state nsecs="788237747" secs="0" sequence="23">
+      <desired>
+        <position>-0.99871896275, 0.317833407723, -0.670209363971, 0.644299908587, -2.99806515052, 1.11357807507, -2.09550082923</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05560946907, 0.232817431133, -0.544704225284, 0.665606256638, -3.17206289586, 1.13431691597, -2.14375996532</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.992901880515, 0.346311906294, -0.690758716752, 0.610125937902, -3.00185665483, 1.14734336079, -2.11034505255"/>
+      <extra name="reference_cost" type="double" value="6.39173331857"/>
+      <extra name="executed_cost" type="double" value="6.73335489631"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.48372279108"/>
+    </state>
+    <state nsecs="810430372" secs="0" sequence="24">
+      <desired>
+        <position>-0.997711537617, 0.322937803068, -0.668446927417, 0.648250292977, -2.99959979415, 1.11915233521, -2.09142443526</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.06518227928, 0.274782411857, -0.538705407335, 0.63740878979, -3.17211725682, 1.14855904537, -2.16519814227</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.993393856742, 0.347329582047, -0.691590496868, 0.616117946624, -3.00154304115, 1.15399162174, -2.10874840458"/>
+      <extra name="reference_cost" type="double" value="6.39349712059"/>
+      <extra name="executed_cost" type="double" value="6.64451549202"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.41035155207"/>
+    </state>
+    <state nsecs="832622997" secs="0" sequence="25">
+      <desired>
+        <position>-0.996704112484, 0.328042198414, -0.666684490864, 0.652200677367, -3.00113443777, 1.12472659535, -2.08734804128</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.08241937427, 0.298149156314, -0.550300537895, 0.572713840218, -3.17903307501, 1.1307105651, -2.07717860495</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.993885832968, 0.3483472578, -0.692422276983, 0.622109955346, -3.00122942747, 1.16063988269, -2.10715175661"/>
+      <extra name="reference_cost" type="double" value="6.3613117002"/>
+      <extra name="executed_cost" type="double" value="6.6534556523"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.32760525867"/>
+    </state>
+    <state nsecs="854815622" secs="0" sequence="26">
+      <desired>
+        <position>-0.995696687351, 0.333146593759, -0.66492205431, 0.656151061757, -3.0026690814, 1.13030085549, -2.08327164731</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05221770308, 0.249674552124, -0.528694210402, 0.674223353074, -3.17118629176, 1.1483530106, -2.12932011815</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.994377809195, 0.349364933553, -0.693254057098, 0.628101964068, -3.00091581379, 1.16728814364, -2.10555510864"/>
+      <extra name="reference_cost" type="double" value="6.35064061359"/>
+      <extra name="executed_cost" type="double" value="6.70345565677"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.15609391406"/>
+    </state>
+    <state nsecs="877008247" secs="0" sequence="27">
+      <desired>
+        <position>-0.994689262219, 0.338250989104, -0.663159617756, 0.660101446147, -3.00420372502, 1.13587511563, -2.07919525333</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05626037861, 0.240492508013, -0.541493231591, 0.686763401811, -3.17099921804, 1.16199274028, -2.11851581656</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.994869785421, 0.350382609306, -0.694085837213, 0.63409397279, -3.0006022001, 1.1739364046, -2.10395846068"/>
+      <extra name="reference_cost" type="double" value="6.17992992699"/>
+      <extra name="executed_cost" type="double" value="6.70322798565"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.11546596885"/>
+    </state>
+    <state nsecs="899200872" secs="0" sequence="28">
+      <desired>
+        <position>-0.993681837086, 0.34335538445, -0.661397181203, 0.664051830537, -3.00573836864, 1.14144937578, -2.07511885936</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05558600117, 0.273125758883, -0.520560349359, 0.68305927216, -3.16814213111, 1.16139162065, -2.13960091316</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.995361761648, 0.351400285059, -0.694917617329, 0.640085981512, -3.00028858642, 1.18058466555, -2.10236181271"/>
+      <extra name="reference_cost" type="double" value="6.15921924636"/>
+      <extra name="executed_cost" type="double" value="6.47686554119"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.99345624819"/>
+    </state>
+    <state nsecs="921393497" secs="0" sequence="29">
+      <desired>
+        <position>-0.992674411953, 0.348459779795, -0.659634744649, 0.668002214927, -3.00727301227, 1.14702363592, -2.07104246538</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.06640750276, 0.256406538093, -0.579353834161, 0.608033832389, -3.08716292705, 1.14522712184, -1.9417672901</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.995853737874, 0.352417960812, -0.695749397444, 0.646077990234, -2.99997497274, 1.1872329265, -2.10076516474"/>
+      <extra name="reference_cost" type="double" value="6.18674476817"/>
+      <extra name="executed_cost" type="double" value="7.00322191045"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.98357857019"/>
+    </state>
+    <state nsecs="933343371" secs="0" sequence="30">
+      <desired>
+        <position>-0.994619845613, 0.349391208087, -0.661465160131, 0.671680698418, -3.01001450661, 1.15534055804, -2.07300906953</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.04326363208, 0.351406519065, -0.579138237764, 0.649265902173, -3.06642504541, 1.20360478275, -1.85973563728</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.99611864815, 0.352965940064, -0.696197279045, 0.649304456469, -2.99980610383, 1.19081275932, -2.09990543122"/>
+      <extra name="reference_cost" type="double" value="6.18674476817"/>
+      <extra name="executed_cost" type="double" value="5.82755525038"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.91016957909"/>
+    </state>
+    <state nsecs="945293246" secs="0" sequence="31">
+      <desired>
+        <position>-0.996565279273, 0.35032263638, -0.663295575612, 0.675359181908, -3.01275600095, 1.16365748017, -2.07497567368</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.06489244628, 0.35232037241, -0.517882429096, 0.532859744775, -3.09124734481, 1.19856607892, -2.15127262979</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.996383558425, 0.353513919315, -0.696645160645, 0.652530922704, -2.99963723493, 1.19439259214, -2.0990456977"/>
+      <extra name="reference_cost" type="double" value="6.15792021155"/>
+      <extra name="executed_cost" type="double" value="6.53921438754"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.91016957909"/>
+    </state>
+    <state nsecs="957243121" secs="0" sequence="32">
+      <desired>
+        <position>-0.998510712933, 0.351254064672, -0.665125991094, 0.679037665398, -3.01549749529, 1.1719744023, -2.07694227783</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.00361838135, 0.262231408742, -0.519648311056, 0.73887456102, -3.13932072104, 1.13691600441, -2.11318467473</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.996648468701, 0.354061898567, -0.697093042245, 0.655757388939, -2.99946836602, 1.19797242496, -2.09818596418"/>
+      <extra name="reference_cost" type="double" value="6.12204826623"/>
+      <extra name="executed_cost" type="double" value="6.07599715889"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.89122270048"/>
+    </state>
+    <state nsecs="969192996" secs="0" sequence="33">
+      <desired>
+        <position>-1.00045614659, 0.352185492964, -0.666956406575, 0.682716148889, -3.01823898964, 1.18029132443, -2.07890888197</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.03766455081, 0.258741259383, -0.509818514129, 0.726027275881, -3.14546896207, 1.15148620557, -2.0960593423</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.996913378976, 0.354609877819, -0.697540923846, 0.658983855174, -2.99929949712, 1.20155225778, -2.09732623066"/>
+      <extra name="reference_cost" type="double" value="6.13016214222"/>
+      <extra name="executed_cost" type="double" value="6.38338551298"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.85173032433"/>
+    </state>
+    <state nsecs="981142871" secs="0" sequence="34">
+      <desired>
+        <position>-1.00240158025, 0.353116921256, -0.668786822057, 0.686394632379, -3.02098048398, 1.18860824656, -2.08087548612</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.01686883557, 0.253045797, -0.56114819921, 0.762791536788, -3.03886724161, 1.21944218217, -1.91591232096</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.997178289252, 0.35515785707, -0.697988805446, 0.662210321409, -2.99913062821, 1.2051320906, -2.09646649714"/>
+      <extra name="reference_cost" type="double" value="6.11121526361"/>
+      <extra name="executed_cost" type="double" value="6.74423569068"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.87387616187"/>
+    </state>
+    <state nsecs="993092746" secs="0" sequence="35">
+      <desired>
+        <position>-1.00434701391, 0.354048349549, -0.670617237539, 0.690073115869, -3.02372197832, 1.19692516869, -2.08284209027</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.02008025515, 0.274298835381, -0.568479481735, 0.677261872667, -3.13029156218, 1.17188968992, -2.18139352948</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.997443199528, 0.355705836322, -0.698436687047, 0.665436787644, -2.99896175931, 1.20871192342, -2.09560676362"/>
+      <extra name="reference_cost" type="double" value="6.14050458372"/>
+      <extra name="executed_cost" type="double" value="6.5897356011"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.91572486609"/>
+    </state>
+    <state nsecs="5042621" secs="1" sequence="36">
+      <desired>
+        <position>-1.00629244757, 0.354979777841, -0.67244765302, 0.69375159936, -3.02646347266, 1.20524209082, -2.08480869442</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.03131831706, 0.265652519937, -0.524178736867, 0.721900015599, -3.15111247217, 1.1815924882, -2.11396218634</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.997708109803, 0.356253815574, -0.698884568648, 0.668663253878, -2.9987928904, 1.21229175625, -2.09474703009"/>
+      <extra name="reference_cost" type="double" value="6.09545554221"/>
+      <extra name="executed_cost" type="double" value="6.3420602493"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.94534283131"/>
+    </state>
+    <state nsecs="16992496" secs="1" sequence="37">
+      <desired>
+        <position>-1.00823788123, 0.355911206133, -0.674278068502, 0.69743008285, -3.02920496701, 1.21355901294, -2.08677529857</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.01913606589, 0.242822965673, -0.54647711135, 0.733553771304, -3.01737395451, 1.2462057245, -2.05936502732</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.997973020079, 0.356801794825, -0.699332450248, 0.671889720113, -2.99862402149, 1.21587158907, -2.09388729657"/>
+      <extra name="reference_cost" type="double" value="6.05958359689"/>
+      <extra name="executed_cost" type="double" value="7.02854442224"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.89534282684"/>
+    </state>
+    <state nsecs="28942370" secs="1" sequence="38">
+      <desired>
+        <position>-1.01018331489, 0.356842634426, -0.676108483983, 0.701108566341, -3.03194646135, 1.22187593507, -2.08874190272</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.04554830465, 0.293183117721, -0.53657243652, 0.705338188241, -3.17585115268, 1.18204451051, -2.17371342085</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.998237930355, 0.357349774077, -0.699780331848, 0.675116186348, -2.99845515259, 1.21945142189, -2.09302756305"/>
+      <extra name="reference_cost" type="double" value="6.05589407682"/>
+      <extra name="executed_cost" type="double" value="5.96756204963"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.90613254905"/>
+    </state>
+    <state nsecs="40892245" secs="1" sequence="39">
+      <desired>
+        <position>-1.01212874855, 0.357774062718, -0.677938899465, 0.704787049831, -3.03468795569, 1.2301928572, -2.09070850686</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.03674074768, 0.275911291951, -0.536888347196, 0.721793249543, -3.10210352641, 1.20598187298, -2.21301773979</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.99850284063, 0.357897753329, -0.700228213449, 0.678342652583, -2.99828628368, 1.22303125471, -2.09216782953"/>
+      <extra name="reference_cost" type="double" value="6.05589407682"/>
+      <extra name="executed_cost" type="double" value="6.35489823297"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.96961389109"/>
+    </state>
+    <state nsecs="52842120" secs="1" sequence="40">
+      <desired>
+        <position>-1.01407418221, 0.35870549101, -0.679769314946, 0.708465533321, -3.03742945003, 1.23850977933, -2.09267511101</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.03109568779, 0.252762015189, -0.536257814318, 0.773626244279, -3.14908132737, 1.21622624574, -2.07629918589</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.998767750906, 0.35844573258, -0.70067609505, 0.681569118818, -2.99811741478, 1.22661108753, -2.09130809601"/>
+      <extra name="reference_cost" type="double" value="6.04522299021"/>
+      <extra name="executed_cost" type="double" value="6.40031024441"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.98141728714"/>
+    </state>
+    <state nsecs="64791995" secs="1" sequence="41">
+      <desired>
+        <position>-1.01601961587, 0.359636919303, -0.681599730428, 0.712144016812, -3.04017094438, 1.24682670146, -2.09464171516</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.04909176463, 0.26185115625, -0.543960601886, 0.774525349827, -3.09928509538, 1.26684366525, -1.95260408294</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.999032661181, 0.358993711832, -0.70112397665, 0.684795585053, -2.99794854587, 1.23019092035, -2.09044836249"/>
+      <extra name="reference_cost" type="double" value="6.02563436329"/>
+      <extra name="executed_cost" type="double" value="6.37830829248"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.95212796703"/>
+    </state>
+    <state nsecs="76741870" secs="1" sequence="42">
+      <desired>
+        <position>-1.01796504953, 0.360568347595, -0.683430145909, 0.715822500302, -3.04291243872, 1.25514362359, -2.09660831931</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.0745856649, 0.316624047367, -0.529042997059, 0.670308613233, -3.17130906783, 1.27679217985, -2.01969707837</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.999297571457, 0.359541691083, -0.70157185825, 0.688022051288, -2.99777967697, 1.23377075317, -2.08958862897"/>
+      <extra name="reference_cost" type="double" value="5.97270383686"/>
+      <extra name="executed_cost" type="double" value="6.13996437192"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.96279905364"/>
+    </state>
+    <state nsecs="88691745" secs="1" sequence="43">
+      <desired>
+        <position>-1.01991048319, 0.361499775887, -0.685260561391, 0.719500983793, -3.04565393306, 1.26346054572, -2.09857492346</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.02220729083, 0.265334428452, -0.5562823013, 0.769896198938, -3.13112670575, 1.23028749511, -2.18877265429</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.999562481733, 0.360089670335, -0.702019739851, 0.691248517523, -2.99761080806, 1.23735058599, -2.08872889545"/>
+      <extra name="reference_cost" type="double" value="6.02545583993"/>
+      <extra name="executed_cost" type="double" value="6.20921752974"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.12151154503"/>
+    </state>
+    <state nsecs="100641620" secs="1" sequence="44">
+      <desired>
+        <position>-1.02185591685, 0.362431204179, -0.687090976873, 0.723179467283, -3.0483954274, 1.27177746784, -2.10054152761</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.02253207151, 0.272623359854, -0.544198138353, 0.786908389028, -2.9524971456, 1.33329508533, -2.02972351042</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-0.999827392008, 0.360637649587, -0.702467621451, 0.694474983758, -2.99744193915, 1.24093041881, -2.08786916193"/>
+      <extra name="reference_cost" type="double" value="5.99430662021"/>
+      <extra name="executed_cost" type="double" value="6.44969052076"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.14222222567"/>
+    </state>
+    <state nsecs="112591495" secs="1" sequence="45">
+      <desired>
+        <position>-1.02380135051, 0.363362632472, -0.688921392354, 0.726857950773, -3.05113692174, 1.28009438997, -2.10250813175</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05066621526, 0.277964260087, -0.558369995275, 0.766916233266, -3.20050749003, 1.23081702776, -2.16313326209</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.00009230228, 0.361185628838, -0.702915503052, 0.697701449993, -2.99727307025, 1.24451025163, -2.08700942841"/>
+      <extra name="reference_cost" type="double" value="5.99430662021"/>
+      <extra name="executed_cost" type="double" value="6.0633738637"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.14222222567"/>
+    </state>
+    <state nsecs="124541370" secs="1" sequence="46">
+      <desired>
+        <position>-1.02574678417, 0.364294060764, -0.690751807836, 0.730536434264, -3.05387841609, 1.2884113121, -2.1044747359</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05249605697, 0.270164018785, -0.538775449187, 0.782136336802, -3.17344270459, 1.2508311806, -2.15978487274</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.00035721256, 0.36173360809, -0.703363384653, 0.700927916228, -2.99710420134, 1.24809008445, -2.08614969489"/>
+      <extra name="reference_cost" type="double" value="6.05898755416"/>
+      <extra name="executed_cost" type="double" value="6.27436528355"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.09222222492"/>
+    </state>
+    <state nsecs="136491244" secs="1" sequence="47">
+      <desired>
+        <position>-1.02769221783, 0.365225489056, -0.692582223317, 0.734214917754, -3.05661991043, 1.29672823423, -2.10644134005</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05910188149, 0.268812153326, -0.541242141154, 0.789859551413, -3.19036680504, 1.26780081781, -2.09370098761</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.00062212284, 0.362281587342, -0.703811266253, 0.704154382463, -2.99693533244, 1.25166991727, -2.08528996137"/>
+      <extra name="reference_cost" type="double" value="6.07649204507"/>
+      <extra name="executed_cost" type="double" value="6.35655902699"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.95677761361"/>
+    </state>
+    <state nsecs="148441119" secs="1" sequence="48">
+      <desired>
+        <position>-1.02963765149, 0.366156917349, -0.694412638799, 0.737893401245, -3.05936140477, 1.30504515636, -2.1084079442</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05754212514, 0.265565386685, -0.544996469878, 0.801973482451, -3.19156604576, 1.27491744931, -2.09077102522</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.00088703311, 0.362829566593, -0.704259147853, 0.707380848698, -2.99676646353, 1.25524975009, -2.08443022785"/>
+      <extra name="reference_cost" type="double" value="6.11758476123"/>
+      <extra name="executed_cost" type="double" value="6.35655902699"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.97748829424"/>
+    </state>
+    <state nsecs="160390994" secs="1" sequence="49">
+      <desired>
+        <position>-1.03158308515, 0.367088345641, -0.69624305428, 0.741571884735, -3.06210289911, 1.31336207849, -2.11037454835</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05965892396, 0.265434382703, -0.547674525714, 0.806136398397, -3.19402559738, 1.28306075132, -2.09250352953</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.00115194339, 0.363377545845, -0.704707029454, 0.710607314932, -2.99659759462, 1.25882958292, -2.08357049432"/>
+      <extra name="reference_cost" type="double" value="6.10252691433"/>
+      <extra name="executed_cost" type="double" value="6.39861188084"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.97748829424"/>
+    </state>
+    <state nsecs="172340869" secs="1" sequence="50">
+      <desired>
+        <position>-1.03352851881, 0.368019773933, -0.698073469762, 0.745250368225, -3.06484439346, 1.32167900062, -2.11234115249</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.06279744024, 0.268012572468, -0.54954150918, 0.80693642175, -3.19863457503, 1.2865624301, -2.11562072371</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.00141685366, 0.363925525097, -0.705154911055, 0.713833781167, -2.99642872572, 1.26240941574, -2.0827107608"/>
+      <extra name="reference_cost" type="double" value="6.10252691433"/>
+      <extra name="executed_cost" type="double" value="6.40599092841"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.03528184071"/>
+    </state>
+    <state nsecs="184290744" secs="1" sequence="51">
+      <desired>
+        <position>-1.03547395247, 0.368951202225, -0.699903885243, 0.748928851716, -3.0675858878, 1.32999592275, -2.11430775664</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.07584478129, 0.28197733077, -0.54624674296, 0.789172292436, -3.21050242889, 1.28900086341, -2.1574483972</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.00168176394, 0.364473504348, -0.705602792655, 0.717060247402, -2.99625985681, 1.26598924856, -2.08185102728"/>
+      <extra name="reference_cost" type="double" value="6.10252691433"/>
+      <extra name="executed_cost" type="double" value="6.24555239081"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.10566387698"/>
+    </state>
+    <state nsecs="196240619" secs="1" sequence="52">
+      <desired>
+        <position>-1.03741938613, 0.369882630518, -0.701734300725, 0.752607335206, -3.07032738214, 1.33831284487, -2.11627436079</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.04877521484, 0.256817499091, -0.570626035811, 0.843143131065, -3.18949574155, 1.29826340882, -2.11452356429</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.00194667421, 0.3650214836, -0.706050674256, 0.720286713637, -2.99609098791, 1.26956908138, -2.08099129376"/>
+      <extra name="reference_cost" type="double" value="6.11978062615"/>
+      <extra name="executed_cost" type="double" value="6.40751916543"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.07796862349"/>
+    </state>
+    <state nsecs="208190494" secs="1" sequence="53">
+      <desired>
+        <position>-1.03936481979, 0.37081405881, -0.703564716207, 0.756285818697, -3.07306887648, 1.346629767, -2.11824096494</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-0.956424092393, 0.274005007584, -0.801219665226, 0.903323658484, -3.07820185665, 1.29691184828, -2.08332239613</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.00221158449, 0.365569462852, -0.706498555856, 0.723513179872, -2.995922119, 1.2731489142, -2.08013156024"/>
+      <extra name="reference_cost" type="double" value="6.11978062615"/>
+      <extra name="executed_cost" type="double" value="6.74354784563"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.977968622"/>
+    </state>
+    <state nsecs="220140369" secs="1" sequence="54">
+      <desired>
+        <position>-1.04131025345, 0.371745487102, -0.705395131688, 0.759964302187, -3.07581037083, 1.35494668913, -2.12020756909</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.06590733414, 0.298449434642, -0.580929925634, 0.748286359663, -3.17797915764, 1.32451612561, -2.25454658307</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.00247649476, 0.366117442103, -0.706946437456, 0.726739646107, -2.9957532501, 1.27672874702, -2.07927182672"/>
+      <extra name="reference_cost" type="double" value="6.13045171276"/>
+      <extra name="executed_cost" type="double" value="6.43408756703"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.05549415573"/>
+    </state>
+    <state nsecs="232090244" secs="1" sequence="55">
+      <desired>
+        <position>-1.04325568711, 0.372676915395, -0.70722554717, 0.763642785677, -3.07855186517, 1.36326361126, -2.12217417324</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05744572343, 0.270238098932, -0.566471789856, 0.830475641025, -3.20979855396, 1.3282331632, -2.12783692621</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.00274140504, 0.366665421355, -0.707394319057, 0.729966112342, -2.99558438119, 1.28030857984, -2.0784120932"/>
+      <extra name="reference_cost" type="double" value="6.15116239339"/>
+      <extra name="executed_cost" type="double" value="6.44741228968"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.10549415275"/>
+    </state>
+    <state nsecs="270927337" secs="1" sequence="56">
+      <desired>
+        <position>-1.04382248669, 0.368943470525, -0.7096433089, 0.766733144941, -3.07118997708, 1.36112717914, -2.11983861862</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.07914377846, 0.239908094942, -0.64528471001, 0.880402013497, -3.19263865594, 1.37188958508, -2.0257948774</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.00360236344, 0.368446353923, -0.708849934259, 0.740452127606, -2.99503555725, 1.29194303651, -2.07561795926"/>
+      <extra name="reference_cost" type="double" value="6.17360399291"/>
+      <extra name="executed_cost" type="double" value="6.81608720869"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.22653348371"/>
+    </state>
+    <state nsecs="309764431" secs="1" sequence="57">
+      <desired>
+        <position>-1.04438928628, 0.365210025655, -0.71206107063, 0.769823504205, -3.063828089, 1.35899074702, -2.117503064</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05541007148, 0.261426158584, -0.705746569405, 0.880187978139, -3.09629683229, 1.40486510942, -2.28126635983</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.00446332184, 0.370227286491, -0.71030554946, 0.750938142869, -2.9944867333, 1.30357749317, -2.07282382531"/>
+      <extra name="reference_cost" type="double" value="6.07748829573"/>
+      <extra name="executed_cost" type="double" value="6.81712008268"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.22653348371"/>
+    </state>
+    <state nsecs="348601525" secs="1" sequence="58">
+      <desired>
+        <position>-1.04495608586, 0.361476580786, -0.71447883236, 0.772913863469, -3.05646620092, 1.3568543149, -2.11516750939</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.10599955152, 0.230325684806, -0.642687638197, 0.859138168558, -3.13500636237, 1.35536367342, -2.13319958809</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.00532428023, 0.372008219058, -0.711761164662, 0.761424158133, -2.99393790936, 1.31521194984, -2.07002969137"/>
+      <extra name="reference_cost" type="double" value="5.97748829424"/>
+      <extra name="executed_cost" type="double" value="6.96775176376"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.25735405833"/>
+    </state>
+    <state nsecs="387438619" secs="1" sequence="59">
+      <desired>
+        <position>-1.04552288545, 0.357743135916, -0.71689659409, 0.776004222733, -3.04910431283, 1.35471788278, -2.11283195477</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.11719490688, 0.231739161554, -0.626070782685, 0.848585721018, -3.12392143103, 1.33559543109, -2.11532338328</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.00618523863, 0.373789151626, -0.713216779864, 0.771910173396, -2.99338908542, 1.32684640651, -2.06723555742"/>
+      <extra name="reference_cost" type="double" value="6.11938998476"/>
+      <extra name="executed_cost" type="double" value="6.83972061053"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.40396262705"/>
+    </state>
+    <state nsecs="426275712" secs="1" sequence="60">
+      <desired>
+        <position>-1.04608968503, 0.354009691047, -0.71931435582, 0.779094581997, -3.04174242475, 1.35258145066, -2.11049640015</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.11543804941, 0.228897903417, -0.631488397826, 0.857125025172, -3.11515495769, 1.33297843258, -2.12618009009</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.00704619703, 0.375570084194, -0.714672395066, 0.78239618866, -2.99284026147, 1.33848086317, -2.06444142348"/>
+      <extra name="reference_cost" type="double" value="6.19578320906"/>
+      <extra name="executed_cost" type="double" value="6.69829924777"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.40396262705"/>
+    </state>
+    <state nsecs="465112806" secs="1" sequence="61">
+      <desired>
+        <position>-1.04665648462, 0.350276246177, -0.72173211755, 0.782184941261, -3.03438053666, 1.35044501854, -2.10816084553</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.12431858477, 0.247205074956, -0.628921595284, 0.822641226956, -3.06278920161, 1.33841532086, -2.17068104075</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.00790715543, 0.377351016762, -0.716128010268, 0.792882203923, -2.99229143753, 1.35011531984, -2.06164728954"/>
+      <extra name="reference_cost" type="double" value="6.20582280308"/>
+      <extra name="executed_cost" type="double" value="6.51686964184"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.41409276053"/>
+    </state>
+    <state nsecs="503949900" secs="1" sequence="62">
+      <desired>
+        <position>-1.0472232842, 0.346542801307, -0.72414987928, 0.785275300525, -3.02701864858, 1.34830858642, -2.10582529092</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.09945661415, 0.220354506563, -0.640988447817, 0.889251312566, -3.10998712299, 1.36151307713, -2.09810397968</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.00876811382, 0.379131949329, -0.717583625469, 0.803368219187, -2.99174261358, 1.3617497765, -2.05885315559"/>
+      <extra name="reference_cost" type="double" value="6.05036454275"/>
+      <extra name="executed_cost" type="double" value="6.79038021341"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.46103774011"/>
+    </state>
+    <state nsecs="542786994" secs="1" sequence="63">
+      <desired>
+        <position>-1.04779008379, 0.342809356438, -0.72656764101, 0.788365659789, -3.01965676049, 1.3461721543, -2.1034897363</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.07058269215, 0.319236551019, -0.642449382426, 0.787669711708, -3.07093178041, 1.35932414296, -1.88504855295</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.00962907222, 0.380912881897, -0.719039240671, 0.81385423445, -2.99119378964, 1.37338423317, -2.05605902165"/>
+      <extra name="reference_cost" type="double" value="5.97965386137"/>
+      <extra name="executed_cost" type="double" value="6.54348998517"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.4279827103"/>
+    </state>
+    <state nsecs="557582077" secs="1" sequence="64">
+      <desired>
+        <position>-1.0464020099, 0.345574229531, -0.72862881095, 0.792636301535, -3.0173270427, 1.35261243152, -2.09925859418</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05515248531, 0.251104323752, -0.645896283097, 0.934452719709, -3.16049824932, 1.40413392118, -2.13708334073</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.00995705637, 0.381591332399, -0.719593760748, 0.817848906931, -2.99098471385, 1.37781640714, -2.05499458967"/>
+      <extra name="reference_cost" type="double" value="5.97266928479"/>
+      <extra name="executed_cost" type="double" value="6.43838024512"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.38688999414"/>
+    </state>
+    <state nsecs="572377160" secs="1" sequence="65">
+      <desired>
+        <position>-1.04501393601, 0.348339102624, -0.730689980889, 0.796906943281, -3.01499732491, 1.35905270874, -2.09502745206</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.01730555693, 0.234300713785, -0.681915605455, 0.965936699331, -3.14036804142, 1.35741332314, -2.10491990503</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01028504052, 0.382269782901, -0.720148280825, 0.821843579413, -2.99077563806, 1.38224858111, -2.05393015769"/>
+      <extra name="reference_cost" type="double" value="5.94161616266"/>
+      <extra name="executed_cost" type="double" value="6.81818507612"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.16617930681"/>
+    </state>
+    <state nsecs="587172243" secs="1" sequence="66">
+      <desired>
+        <position>-1.04362586211, 0.351103975717, -0.732751150829, 0.801177585026, -3.01266760712, 1.36549298596, -2.09079630995</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.08002804217, 0.294064400603, -0.644899106772, 0.903076067429, -3.14409982165, 1.4544911327, -2.16473156866</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01061302467, 0.382948233403, -0.720702800902, 0.825838251894, -2.99056656228, 1.38668075508, -2.05286572572"/>
+      <extra name="reference_cost" type="double" value="5.94777144492"/>
+      <extra name="executed_cost" type="double" value="6.16509389505"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.08176037297"/>
+    </state>
+    <state nsecs="601967326" secs="1" sequence="67">
+      <desired>
+        <position>-1.04223778822, 0.353868848811, -0.734812320768, 0.805448226772, -3.01033788933, 1.37193326318, -2.08656516783</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.0410743697, 0.261954341069, -0.687801019122, 0.9566359152, -3.14350198875, 1.42636578597, -2.16611316905</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01094100882, 0.383626683905, -0.721257320978, 0.829832924375, -2.99035748649, 1.39111292904, -2.05180129374"/>
+      <extra name="reference_cost" type="double" value="5.97738941014"/>
+      <extra name="executed_cost" type="double" value="6.39743158594"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.14066766202"/>
+    </state>
+    <state nsecs="616762409" secs="1" sequence="68">
+      <desired>
+        <position>-1.04084971433, 0.356633721904, -0.736873490708, 0.809718868518, -3.00800817154, 1.37837354039, -2.08233402571</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.00496942513, 0.227460471288, -0.685115255252, 0.969698709362, -3.12181380155, 1.37634624958, -2.08020684586</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01126899297, 0.384305134407, -0.721811841055, 0.833827596856, -2.9901484107, 1.39554510301, -2.05073686176"/>
+      <extra name="reference_cost" type="double" value="5.98420425132"/>
+      <extra name="executed_cost" type="double" value="6.88078293577"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.04066765681"/>
+    </state>
+    <state nsecs="631557493" secs="1" sequence="69">
+      <desired>
+        <position>-1.03946164044, 0.359398594997, -0.738934660647, 0.813989510263, -3.00567845375, 1.38481381761, -2.07810288359</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.07261283172, 0.367387594083, -0.718156735131, 0.831494586854, -3.07207912037, 1.51926755015, -2.24808720864</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01159697713, 0.384983584909, -0.722366361132, 0.837822269338, -2.98993933491, 1.39997727698, -2.04967242978"/>
+      <extra name="reference_cost" type="double" value="5.98211180791"/>
+      <extra name="executed_cost" type="double" value="6.35023893416"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.06559128314"/>
+    </state>
+    <state nsecs="646352576" secs="1" sequence="70">
+      <desired>
+        <position>-1.03807356655, 0.362163468091, -0.740995830587, 0.818260152009, -3.00334873596, 1.39125409483, -2.07387174147</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05129835648, 0.271750441787, -0.650492852901, 0.945780437204, -3.159647541, 1.44582790629, -2.09208249234</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01192496128, 0.385662035411, -0.722920881209, 0.841816941819, -2.98973025912, 1.40440945095, -2.0486079978"/>
+      <extra name="reference_cost" type="double" value="5.92320452258"/>
+      <extra name="executed_cost" type="double" value="6.38108463213"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.96559127793"/>
+    </state>
+    <state nsecs="661147659" secs="1" sequence="71">
+      <desired>
+        <position>-1.03668549266, 0.364928341184, -0.743057000526, 0.822530793755, -3.00101901817, 1.39769437205, -2.06964059935</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.0608809224, 0.276038837561, -0.66150846114, 0.952310484512, -3.1559213218, 1.45763919792, -2.10083467565</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01225294543, 0.386340485913, -0.723475401286, 0.8458116143, -2.98952118334, 1.40884162492, -2.04754356583"/>
+      <extra name="reference_cost" type="double" value="5.96429723874"/>
+      <extra name="executed_cost" type="double" value="6.35657588392"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.86559128016"/>
+    </state>
+    <state nsecs="675942742" secs="1" sequence="72">
+      <desired>
+        <position>-1.03529741877, 0.367693214277, -0.745118170466, 0.8268014355, -2.99868930038, 1.40413464927, -2.06540945724</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.04484443707, 0.280157386384, -0.691263739486, 0.967804707624, -3.1427204813, 1.46730183407, -2.13800358729</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01258092958, 0.387018936415, -0.724029921363, 0.849806286782, -2.98931210755, 1.41327379889, -2.04647913385"/>
+      <extra name="reference_cost" type="double" value="5.96429723874"/>
+      <extra name="executed_cost" type="double" value="6.55677315593"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.90761850774"/>
+    </state>
+    <state nsecs="690737825" secs="1" sequence="73">
+      <desired>
+        <position>-1.03390934488, 0.37045808737, -0.747179340405, 0.831072077246, -2.99635958259, 1.41057492649, -2.06117831512</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.0586045744, 0.292813989304, -0.670253053741, 0.954760368157, -3.14487315093, 1.48374151144, -2.11930298437</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01290891373, 0.387697386917, -0.72458444144, 0.853800959263, -2.98910303176, 1.41770597286, -2.04541470187"/>
+      <extra name="reference_cost" type="double" value="6.00360757485"/>
+      <extra name="executed_cost" type="double" value="6.48856351525"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.8859195821"/>
+    </state>
+    <state nsecs="705532909" secs="1" sequence="74">
+      <desired>
+        <position>-1.03252127099, 0.373222960464, -0.749240510345, 0.835342718992, -2.99402986479, 1.4170152037, -2.056947173</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.07047608833, 0.290438587326, -0.628098240764, 0.924805661845, -3.15222933506, 1.47035752319, -2.01577063124</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01323689788, 0.38837583742, -0.725138961516, 0.857795631744, -2.98889395597, 1.42213814682, -2.04435026989"/>
+      <extra name="reference_cost" type="double" value="5.97285730019"/>
+      <extra name="executed_cost" type="double" value="6.38500149921"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="5.91634121165"/>
+    </state>
+    <state nsecs="720327992" secs="1" sequence="75">
+      <desired>
+        <position>-1.0311331971, 0.375987833557, -0.751301680284, 0.839613360737, -2.991700147, 1.42345548092, -2.05271603088</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05217414942, 0.280596476853, -0.671482952817, 0.973932943849, -3.14540896508, 1.47408970317, -2.07260657649</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01356488203, 0.389054287922, -0.725693481593, 0.861790304225, -2.98868488018, 1.42657032079, -2.04328583791"/>
+      <extra name="reference_cost" type="double" value="5.93466069549"/>
+      <extra name="executed_cost" type="double" value="6.44781212881"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.02116003633"/>
+    </state>
+    <state nsecs="735123075" secs="1" sequence="76">
+      <desired>
+        <position>-1.02974512321, 0.37875270665, -0.753362850223, 0.843884002483, -2.98937042921, 1.42989575814, -2.04848488876</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05383409799, 0.285329635788, -0.670751110499, 0.970887316968, -3.14736329282, 1.48517527513, -2.06462834067</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01389286618, 0.389732738424, -0.72624800167, 0.865784976707, -2.98847580439, 1.43100249476, -2.04222140593"/>
+      <extra name="reference_cost" type="double" value="5.834660694"/>
+      <extra name="executed_cost" type="double" value="6.55894555151"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.02116003633"/>
+    </state>
+    <state nsecs="749918158" secs="1" sequence="77">
+      <desired>
+        <position>-1.02835704932, 0.381517579743, -0.755424020163, 0.848154644229, -2.98704071142, 1.43633603536, -2.04425374664</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.02557020864, 0.263269776128, -0.685006489526, 0.980619179464, -3.132401678, 1.45469963771, -2.01520979361</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01422085033, 0.390411188926, -0.726802521747, 0.869779649188, -2.98826672861, 1.43543466873, -2.04115697396"/>
+      <extra name="reference_cost" type="double" value="5.91394999623"/>
+      <extra name="executed_cost" type="double" value="6.57155610248"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.09511946887"/>
+    </state>
+    <state nsecs="764713241" secs="1" sequence="78">
+      <desired>
+        <position>-1.02696897543, 0.384282452837, -0.757485190102, 0.852425285974, -2.98471099363, 1.44277631258, -2.04002260452</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.06014970791, 0.294740955731, -0.65312818927, 0.938034176869, -3.14462289756, 1.46787397807, -1.95634910256</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01454883448, 0.391089639428, -0.727357041824, 0.873774321669, -2.98805765282, 1.4398668427, -2.04009254198"/>
+      <extra name="reference_cost" type="double" value="5.92010527849"/>
+      <extra name="executed_cost" type="double" value="6.39548746869"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.08331608027"/>
+    </state>
+    <state nsecs="779508325" secs="1" sequence="79">
+      <desired>
+        <position>-1.02558090154, 0.38704732593, -0.759546360042, 0.85669592772, -2.98238127584, 1.44921658979, -2.03579146241</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05607893048, 0.294449562541, -0.662205207866, 0.952272006803, -3.15052838808, 1.49320296941, -1.98869522195</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01487681864, 0.39176808993, -0.727911561901, 0.877768994151, -2.98784857703, 1.44429901667, -2.03902811"/>
+      <extra name="reference_cost" type="double" value="5.87010528147"/>
+      <extra name="executed_cost" type="double" value="6.46410570666"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.16958995536"/>
+    </state>
+    <state nsecs="794303408" secs="1" sequence="80">
+      <desired>
+        <position>-1.02419282765, 0.389812199023, -0.761607529981, 0.860966569466, -2.98005155805, 1.45565686701, -2.03156032029</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.04369300516, 0.289750421209, -0.682051985424, 0.994918660691, -3.1337157451, 1.50202717265, -2.0421961068</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01520480279, 0.392446540432, -0.728466081978, 0.881763666632, -2.98763950124, 1.44873119064, -2.03796367802"/>
+      <extra name="reference_cost" type="double" value="5.88302241266"/>
+      <extra name="executed_cost" type="double" value="6.60049906"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.14887927473"/>
+    </state>
+    <state nsecs="809098491" secs="1" sequence="81">
+      <desired>
+        <position>-1.02280475376, 0.392577072116, -0.763668699921, 0.865237211211, -2.97772184026, 1.46209714423, -2.02732917817</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.01486113726, 0.27543704114, -0.687154734321, 1.00035115959, -3.11672058429, 1.46429237939, -1.97929819063</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01553278694, 0.393124990934, -0.729020602054, 0.885758339113, -2.98743042545, 1.4531633646, -2.03689924604"/>
+      <extra name="reference_cost" type="double" value="5.85373309627"/>
+      <extra name="executed_cost" type="double" value="6.60443657637"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.15503455698"/>
+    </state>
+    <state nsecs="823893574" secs="1" sequence="82">
+      <desired>
+        <position>-1.02141667987, 0.39534194521, -0.76572986986, 0.869507852957, -2.97539212247, 1.46853742145, -2.02309803605</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.04518952444, 0.297333840332, -0.686171424572, 0.996949324068, -3.1339054401, 1.51954965357, -2.03149684973</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01586077109, 0.393803441436, -0.729575122131, 0.889753011594, -2.98722134967, 1.45759553857, -2.03583481407"/>
+      <extra name="reference_cost" type="double" value="5.81553649157"/>
+      <extra name="executed_cost" type="double" value="6.65278628469"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.18920332193"/>
+    </state>
+    <state nsecs="838688657" secs="1" sequence="83">
+      <desired>
+        <position>-1.02002860598, 0.398106818303, -0.7677910398, 0.873778494703, -2.97306240468, 1.47497769867, -2.01886689393</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-0.960497812147, 0.27729166109, -0.75979571001, 1.03717384028, -3.03944014302, 1.43485697278, -2.02285820841</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01618875524, 0.394481891938, -0.730129642208, 0.893747684076, -2.98701227388, 1.46202771254, -2.03477038209"/>
+      <extra name="reference_cost" type="double" value="5.81553649157"/>
+      <extra name="executed_cost" type="double" value="6.70790408552"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.22171739861"/>
+    </state>
+    <state nsecs="853483741" secs="1" sequence="84">
+      <desired>
+        <position>-1.01864053209, 0.400871691396, -0.769852209739, 0.878049136448, -2.97073268688, 1.48141797588, -2.01463575181</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05545563274, 0.318345932883, -0.674245738171, 0.976278574583, -3.13823589829, 1.5530659005, -2.0180304635</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01651673939, 0.39516034244, -0.730684162285, 0.897742356557, -2.98680319809, 1.46645988651, -2.03370595011"/>
+      <extra name="reference_cost" type="double" value="5.81440418214"/>
+      <extra name="executed_cost" type="double" value="6.49787153304"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.211046312"/>
+    </state>
+    <state nsecs="877383491" secs="1" sequence="85">
+      <desired>
+        <position>-1.01567458956, 0.398475145478, -0.767407699312, 0.882837834083, -2.97066644962, 1.48903056251, -2.01707533974</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.07710194198, 0.314590559782, -0.708015738538, 0.954019745081, -3.13225560739, 1.43344323821, -1.98795991622</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01704655994, 0.396256300943, -0.731579925486, 0.904195289027, -2.98646546028, 1.47361955215, -2.03198648307"/>
+      <extra name="reference_cost" type="double" value="5.81440418214"/>
+      <extra name="executed_cost" type="double" value="6.45597742125"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.22171739861"/>
+    </state>
+    <state nsecs="901283241" secs="1" sequence="86">
+      <desired>
+        <position>-1.01270864703, 0.39607859956, -0.764963188885, 0.887626531717, -2.97060021236, 1.49664314913, -2.01951492767</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.07039630633, 0.313710317347, -0.701779327742, 0.94664020746, -3.14694737897, 1.45424465865, -1.9666738683</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01757638049, 0.397352259447, -0.732475688687, 0.910648221497, -2.98612772247, 1.48077921779, -2.03026701603"/>
+      <extra name="reference_cost" type="double" value="5.88707346097"/>
+      <extra name="executed_cost" type="double" value="6.3125600405"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.22171739861"/>
+    </state>
+    <state nsecs="925182991" secs="1" sequence="87">
+      <desired>
+        <position>-1.0097427045, 0.393682053642, -0.762518678458, 0.892415229351, -2.9705339751, 1.50425573575, -2.0219545156</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.03427461305, 0.352663253722, -0.794170280827, 0.971573187141, -3.02918126089, 1.49372884838, -1.92226039133</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01810620104, 0.39844821795, -0.733371451888, 0.917101153967, -2.98578998466, 1.48793888343, -2.02854754899"/>
+      <extra name="reference_cost" type="double" value="5.88707346097"/>
+      <extra name="executed_cost" type="double" value="6.59238111228"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.22171739861"/>
+    </state>
+    <state nsecs="949082741" secs="1" sequence="88">
+      <desired>
+        <position>-1.00677676197, 0.391285507723, -0.760074168031, 0.897203926985, -2.97046773784, 1.51186832237, -2.02439410353</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.02888299295, 0.319725459988, -0.695845015726, 0.952012603258, -3.05126755373, 1.50405960391, -1.83558941612</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.0186360216, 0.399544176453, -0.734267215089, 0.923554086436, -2.98545224684, 1.49509854907, -2.02682808194"/>
+      <extra name="reference_cost" type="double" value="5.83963860199"/>
+      <extra name="executed_cost" type="double" value="6.31329064816"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.36297684535"/>
+    </state>
+    <state nsecs="972982491" secs="1" sequence="89">
+      <desired>
+        <position>-1.00381081944, 0.388888961805, -0.757629657603, 0.90199262462, -2.97040150058, 1.519480909, -2.02683369146</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.07004508827, 0.318164828471, -0.679525644796, 0.946041992045, -3.14192562959, 1.47259701321, -2.02411078612</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.01916584215, 0.400640134957, -0.73516297829, 0.930007018906, -2.98511450903, 1.50225821471, -2.0251086149"/>
+      <extra name="reference_cost" type="double" value="5.76523840055"/>
+      <extra name="executed_cost" type="double" value="6.26096598059"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.42364793271"/>
+    </state>
+    <state nsecs="996882241" secs="1" sequence="90">
+      <desired>
+        <position>-1.00084487691, 0.386492415887, -0.755185147176, 0.906781322254, -2.97033526332, 1.52709349562, -2.02927327939</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-0.98983205991, 0.325694609412, -0.806591478689, 1.02856566223, -3.02586124359, 1.4826516303, -1.90880303816</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.0196956627, 0.40173609346, -0.736058741491, 0.936459951376, -2.98477677122, 1.50941788035, -2.02338914786"/>
+      <extra name="reference_cost" type="double" value="5.79406295717"/>
+      <extra name="executed_cost" type="double" value="6.71616861224"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.35616202652"/>
+    </state>
+    <state nsecs="20781991" secs="2" sequence="91">
+      <desired>
+        <position>-0.997878934376, 0.384095869969, -0.752740636749, 0.911570019888, -2.97026902606, 1.53470608224, -2.03171286732</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-0.964227311704, 0.334279543858, -0.730204496365, 1.02461252812, -2.9567419, 1.47304453511, -1.88943300081</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.02022548325, 0.402832051963, -0.736954504693, 0.942912883846, -2.98443903341, 1.516577546, -2.02166968082"/>
+      <extra name="reference_cost" type="double" value="5.93114582449"/>
+      <extra name="executed_cost" type="double" value="6.37233006582"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.39549094066"/>
+    </state>
+    <state nsecs="44681741" secs="2" sequence="92">
+      <desired>
+        <position>-0.994912991846, 0.381699324051, -0.750296126322, 0.916358717522, -2.9702027888, 1.54231866886, -2.03415245525</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.04201314675, 0.297161675827, -0.70912413104, 0.993236451174, -3.12945455328, 1.48530794369, -1.99843162268</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.0207553038, 0.403928010466, -0.737850267894, 0.949365816316, -2.9841012956, 1.52373721164, -2.01995021378"/>
+      <extra name="reference_cost" type="double" value="6.03830960393"/>
+      <extra name="executed_cost" type="double" value="6.5008979924"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.42205388471"/>
+    </state>
+    <state nsecs="68581491" secs="2" sequence="93">
+      <desired>
+        <position>-0.991947049316, 0.379302778133, -0.747851615895, 0.921147415157, -2.97013655154, 1.54993125548, -2.03659204318</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.03973176064, 0.357898288671, -0.770243615852, 0.952862188035, -3.02818356039, 1.53697860504, -2.07583757819</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.02128512435, 0.40502396897, -0.738746031095, 0.955818748786, -2.98376355779, 1.53089687728, -2.01823074674"/>
+      <extra name="reference_cost" type="double" value="6.06705797464"/>
+      <extra name="executed_cost" type="double" value="6.42759349942"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.41138279811"/>
+    </state>
+    <state nsecs="92481241" secs="2" sequence="94">
+      <desired>
+        <position>-0.988981106786, 0.376906232214, -0.745407105468, 0.925936112791, -2.97007031428, 1.55754384211, -2.03903163111</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-0.957442732502, 0.331736607069, -0.822955695778, 1.05556672874, -2.99092377333, 1.48575460795, -2.00414765274</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.02181494491, 0.406119927473, -0.739641794296, 0.962271681255, -2.98342581997, 1.53805654292, -2.01651127969"/>
+      <extra name="reference_cost" type="double" value="6.11443494633"/>
+      <extra name="executed_cost" type="double" value="6.75140906498"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.45247551426"/>
+    </state>
+    <state nsecs="116380991" secs="2" sequence="95">
+      <desired>
+        <position>-0.986015164256, 0.374509686296, -0.742962595041, 0.930724810425, -2.97000407702, 1.56515642873, -2.04147121904</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-0.975827773776, 0.392225924328, -0.854172994596, 0.99456560265, -2.91794785425, 1.5632052979, -2.03728542391</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.02234476546, 0.407215885976, -0.740537557497, 0.968724613725, -2.98308808216, 1.54521620856, -2.01479181265"/>
+      <extra name="reference_cost" type="double" value="6.14196046442"/>
+      <extra name="executed_cost" type="double" value="6.62503629178"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.48000103608"/>
+    </state>
+    <state nsecs="140280741" secs="2" sequence="96">
+      <desired>
+        <position>-0.983049221726, 0.372113140378, -0.740518084614, 0.935513508059, -2.96993783976, 1.57276901535, -2.04391080697</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.02031596731, 0.336202503548, -0.730935116085, 0.970618417087, -3.06314623702, 1.5160062465, -2.1550863192</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.02287458601, 0.40831184448, -0.741433320698, 0.975177546195, -2.98275034435, 1.5523758742, -2.01307234561"/>
+      <extra name="reference_cost" type="double" value="6.14196046442"/>
+      <extra name="executed_cost" type="double" value="6.46415313706"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.46058939025"/>
+    </state>
+    <state nsecs="164180491" secs="2" sequence="97">
+      <desired>
+        <position>-0.980083279196, 0.36971659446, -0.738073574186, 0.940302205694, -2.9698716025, 1.58038160197, -2.0463503949</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.02425015382, 0.284784623034, -0.689843716873, 1.02142126204, -3.1183375326, 1.53170735882, -1.96497226173</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.02340440656, 0.409407802983, -0.742329083899, 0.981630478665, -2.98241260654, 1.55953553984, -2.01135287857"/>
+      <extra name="reference_cost" type="double" value="6.16710539907"/>
+      <extra name="executed_cost" type="double" value="6.77516682819"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.42471744493"/>
+    </state>
+    <state nsecs="186373115" secs="2" sequence="98">
+      <desired>
+        <position>-0.983026255541, 0.369742361864, -0.737640990895, 0.947698485702, -2.96879271589, 1.58298683355, -2.04122529045</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-0.970901300002, 0.257621268995, -0.671231051271, 1.00726265889, -3.14174308339, 1.58510829961, -2.08993486971</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.02389638279, 0.410425478736, -0.743160864014, 0.987622487387, -2.98209899286, 1.56618380079, -2.0097562306"/>
+      <extra name="reference_cost" type="double" value="6.14639471844"/>
+      <extra name="executed_cost" type="double" value="6.96755703166"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.5300010331"/>
+    </state>
+    <state nsecs="208565740" secs="2" sequence="99">
+      <desired>
+        <position>-0.985969231887, 0.369768129269, -0.737208407603, 0.955094765711, -2.96771382928, 1.58559206512, -2.03610018601</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-0.89346781852, 0.299119045906, -0.839260192241, 1.08218537311, -3.03493111965, 1.60919693432, -2.155273996</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.02438835901, 0.411443154489, -0.74399264413, 0.993614496109, -2.98178537918, 1.57283206175, -2.00815958263"/>
+      <extra name="reference_cost" type="double" value="6.17165620252"/>
+      <extra name="executed_cost" type="double" value="7.08922212943"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.48272741213"/>
+    </state>
+    <state nsecs="230758365" secs="2" sequence="100">
+      <desired>
+        <position>-0.988912208232, 0.369793896673, -0.736775824311, 0.962491045719, -2.96663494267, 1.5881972967, -2.03097508156</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.02836204044, 0.277533889801, -0.64176545305, 1.02514043329, -3.13441779495, 1.6111946936, -2.12796623772</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.02488033524, 0.412460830242, -0.744824424245, 0.99960650483, -2.98147176549, 1.5794803227, -2.00656293467"/>
+      <extra name="reference_cost" type="double" value="6.20127416775"/>
+      <extra name="executed_cost" type="double" value="6.85994004086"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.55343807489"/>
+    </state>
+    <state nsecs="252950990" secs="2" sequence="101">
+      <desired>
+        <position>-0.991855184578, 0.369819664077, -0.736343241019, 0.969887325728, -2.96555605606, 1.59080252828, -2.02584997711</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-0.988346608843, 0.263372411673, -0.675138556158, 1.04994342124, -3.1322306969, 1.60089519464, -2.11404244176</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.02537231147, 0.413478505995, -0.74565620436, 1.00559851355, -2.98115815181, 1.58612858365, -2.0049662867"/>
+      <extra name="reference_cost" type="double" value="6.2545976229"/>
+      <extra name="executed_cost" type="double" value="6.91809151694"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.51018742472"/>
+    </state>
+    <state nsecs="275143615" secs="2" sequence="102">
+      <desired>
+        <position>-0.994798160923, 0.369845431482, -0.735910657727, 0.977283605736, -2.96447716945, 1.59340775985, -2.02072487266</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-0.989603950418, 0.270959326123, -0.638189609848, 1.0613567135, -3.12094022018, 1.60653025472, -2.12055649839</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.02586428769, 0.414496181748, -0.746487984475, 1.01159052227, -2.98084453813, 1.5927768446, -2.00336963873"/>
+      <extra name="reference_cost" type="double" value="6.32676131278"/>
+      <extra name="executed_cost" type="double" value="6.86120833829"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.52528587356"/>
+    </state>
+    <state nsecs="297336240" secs="2" sequence="103">
+      <desired>
+        <position>-0.997741137268, 0.369871198886, -0.735478074435, 0.984679885745, -2.96339828284, 1.59601299143, -2.01559976821</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-0.911982346561, 0.267735008721, -0.718765170235, 1.02302896976, -3.05347466489, 1.57429332913, -1.99259252142</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.02635626392, 0.415513857501, -0.747319764591, 1.017582531, -2.98053092445, 1.59942510556, -2.00177299076"/>
+      <extra name="reference_cost" type="double" value="6.41785402969"/>
+      <extra name="executed_cost" type="double" value="6.96541894227"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.49179185554"/>
+    </state>
+    <state nsecs="319528865" secs="2" sequence="104">
+      <desired>
+        <position>-1.00068411361, 0.36989696629, -0.735045491143, 0.992076165753, -2.96231939623, 1.598618223, -2.01047466376</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-0.913228911662, 0.372096733959, -0.840978851015, 1.11825738122, -2.89501964471, 1.61696169085, -2.15691508881</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.02684824015, 0.416531533254, -0.748151544706, 1.02357453972, -2.98021731077, 1.60607336651, -2.0001763428"/>
+      <extra name="reference_cost" type="double" value="6.43031471968"/>
+      <extra name="executed_cost" type="double" value="7.09477905557"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.47952369228"/>
+    </state>
+    <state nsecs="341721489" secs="2" sequence="105">
+      <desired>
+        <position>-1.00362708996, 0.369922733695, -0.734612907852, 0.999472445761, -2.96124050962, 1.60122345458, -2.00534955931</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.015290565, 0.278883921734, -0.686515167125, 1.08094606625, -3.13625801147, 1.63640376973, -2.11426759617</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.02734021637, 0.417549209007, -0.748983324821, 1.02956654844, -2.97990369708, 1.61272162746, -1.99857969483"/>
+      <extra name="reference_cost" type="double" value="6.38031471893"/>
+      <extra name="executed_cost" type="double" value="6.9888536185"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.43843097985"/>
+    </state>
+    <state nsecs="363914114" secs="2" sequence="106">
+      <desired>
+        <position>-1.0065700663, 0.369948501099, -0.73418032456, 1.00686872577, -2.960161623, 1.60382868615, -2.00022445486</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.02374221232, 0.264894228401, -0.661689049715, 1.08634342924, -3.12558546593, 1.61757902381, -2.10253557193</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.0278321926, 0.41856688476, -0.749815104937, 1.03555855716, -2.9795900834, 1.61936988842, -1.99698304686"/>
+      <extra name="reference_cost" type="double" value="6.42029297724"/>
+      <extra name="executed_cost" type="double" value="6.92395101115"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.43779948726"/>
+    </state>
+    <state nsecs="386106739" secs="2" sequence="107">
+      <desired>
+        <position>-1.00951304265, 0.369974268504, -0.733747741268, 1.01426500578, -2.95908273639, 1.60643391773, -1.99509935041</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.03212473408, 0.270309765015, -0.665034104488, 1.0924987201, -3.12986746985, 1.6187669014, -2.09660232025</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.02832416882, 0.419584560513, -0.750646885052, 1.04155056588, -2.97927646972, 1.62601814937, -1.99538639889"/>
+      <extra name="reference_cost" type="double" value="6.44245666638"/>
+      <extra name="executed_cost" type="double" value="6.97894786671"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.36485435814"/>
+    </state>
+    <state nsecs="408299364" secs="2" sequence="108">
+      <desired>
+        <position>-1.012456019, 0.370000035908, -0.733315157976, 1.02166128579, -2.95800384978, 1.60903914931, -1.98997424597</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.03205341637, 0.280265584835, -0.689243345042, 1.11884577111, -3.11361285569, 1.62427280649, -2.11973425161</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.02881614505, 0.420602236266, -0.751478665167, 1.0475425746, -2.97896285604, 1.63266641032, -1.99378975092"/>
+      <extra name="reference_cost" type="double" value="6.50961394981"/>
+      <extra name="executed_cost" type="double" value="7.02231414616"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.33108210936"/>
+    </state>
+    <state nsecs="430491989" secs="2" sequence="109">
+      <desired>
+        <position>-1.01539899534, 0.370025803312, -0.732882574684, 1.0290575658, -2.95692496317, 1.61164438088, -1.98484914152</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.02022012334, 0.274768145485, -0.687476103303, 1.05476096769, -3.15272884878, 1.62859254986, -1.99546146691</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.02930812128, 0.421619912019, -0.752310445282, 1.05353458333, -2.97864924235, 1.63931467127, -1.99219310296"/>
+      <extra name="reference_cost" type="double" value="6.41656263545"/>
+      <extra name="executed_cost" type="double" value="7.04979663342"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.35179279"/>
+    </state>
+    <state nsecs="452684614" secs="2" sequence="110">
+      <desired>
+        <position>-1.01834197169, 0.370051570717, -0.732449991392, 1.0364538458, -2.95584607656, 1.61424961246, -1.97972403707</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-0.976518812043, 0.279788048051, -0.689388252119, 1.07559612805, -3.10604801744, 1.66031748376, -2.00717542923</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.0298000975, 0.422637587772, -0.753142225398, 1.05952659205, -2.97833562867, 1.64596293223, -1.99059645499"/>
+      <extra name="reference_cost" type="double" value="6.38518086821"/>
+      <extra name="executed_cost" type="double" value="6.9890110828"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.23966074735"/>
+    </state>
+    <state nsecs="474877239" secs="2" sequence="111">
+      <desired>
+        <position>-1.02128494803, 0.370077338121, -0.7320174081, 1.04385012581, -2.95476718995, 1.61685484403, -1.97459893262</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.02198757117, 0.270899073052, -0.683836474661, 1.14780737179, -3.09910486741, 1.63099483416, -2.10539926492</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.03029207373, 0.423655263525, -0.753974005513, 1.06551860077, -2.97802201499, 1.65261119318, -1.98899980702"/>
+      <extra name="reference_cost" type="double" value="6.42627358437"/>
+      <extra name="executed_cost" type="double" value="7.00642228872"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.28108210862"/>
+    </state>
+    <state nsecs="493153518" secs="2" sequence="112">
+      <desired>
+        <position>-1.02481279328, 0.372669100702, -0.735001455787, 1.04874996561, -2.95657760128, 1.62332084871, -1.97350030395</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.02417065772, 0.251536639879, -0.666469563644, 1.11496621409, -3.12579922619, 1.60322792, -1.95545454992</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.03069723062, 0.424493349439, -0.754659000902, 1.07045319619, -2.9777637449, 1.65808623161, -1.98768492046"/>
+      <extra name="reference_cost" type="double" value="6.41736629978"/>
+      <extra name="executed_cost" type="double" value="6.96908907965"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.38440556452"/>
+    </state>
+    <state nsecs="511429797" secs="2" sequence="113">
+      <desired>
+        <position>-1.02834063852, 0.375260863282, -0.737985503474, 1.05364980542, -2.95838801261, 1.62978685338, -1.97240167529</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.04372786809, 0.258574645305, -0.653270623695, 1.13600729768, -3.11773295558, 1.61338893223, -2.04982267103</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.03110238751, 0.425331435354, -0.755343996291, 1.07538779161, -2.97750547481, 1.66356127004, -1.9863700339"/>
+      <extra name="reference_cost" type="double" value="6.38807697967"/>
+      <extra name="executed_cost" type="double" value="6.93089278415"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.43276504427"/>
+    </state>
+    <state nsecs="529706076" secs="2" sequence="114">
+      <desired>
+        <position>-1.03186848377, 0.377852625863, -0.740969551161, 1.05854964522, -2.96019842393, 1.63625285806, -1.97130304662</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.00006628215, 0.257831392615, -0.699660198561, 1.13521869173, -3.10430488301, 1.61138810839, -1.90690781952</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.03150754441, 0.426169521268, -0.75602899168, 1.08032238702, -2.97724720472, 1.66903630847, -1.98505514734"/>
+      <extra name="reference_cost" type="double" value="6.33807698265"/>
+      <extra name="executed_cost" type="double" value="7.11051044613"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.50506088138"/>
+    </state>
+    <state nsecs="547982356" secs="2" sequence="115">
+      <desired>
+        <position>-1.03539632901, 0.380444388443, -0.743953598848, 1.06344948502, -2.96200883526, 1.64271886274, -1.97020441795</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.0467990865, 0.262560514745, -0.669422834339, 1.13349038493, -3.13588228488, 1.62484339186, -2.0199806262</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.0319127013, 0.427007607182, -0.756713987069, 1.08525698244, -2.97698893463, 1.6745113469, -1.98374026078"/>
+      <extra name="reference_cost" type="double" value="6.33807698265"/>
+      <extra name="executed_cost" type="double" value="6.98089278489"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.58435020223"/>
+    </state>
+    <state nsecs="566258635" secs="2" sequence="116">
+      <desired>
+        <position>-1.03892417426, 0.383036151024, -0.746937646534, 1.06834932483, -2.96381924659, 1.64918486741, -1.96910578929</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.01698212391, 0.268295817699, -0.679163660794, 1.13000616906, -3.11560608446, 1.63977249127, -1.91359671214</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.03231785819, 0.427845693096, -0.757398982458, 1.09019157786, -2.97673066453, 1.67998638534, -1.98242537421"/>
+      <extra name="reference_cost" type="double" value="6.33807698265"/>
+      <extra name="executed_cost" type="double" value="7.0380163826"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.68379063904"/>
+    </state>
+    <state nsecs="584534914" secs="2" sequence="117">
+      <desired>
+        <position>-1.0424520195, 0.385627913605, -0.749921694221, 1.07324916463, -2.96562965791, 1.65565087209, -1.96800716062</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.04993281309, 0.267971391858, -0.678352444468, 1.1502618655, -3.13461330351, 1.63585851955, -2.02552396926</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.03272301508, 0.428683779011, -0.758083977847, 1.09512617328, -2.97647239444, 1.68546142377, -1.98111048765"/>
+      <extra name="reference_cost" type="double" value="6.34619085863"/>
+      <extra name="executed_cost" type="double" value="6.93199929968"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.76613498107"/>
+    </state>
+    <state nsecs="602811194" secs="2" sequence="118">
+      <desired>
+        <position>-1.04597986475, 0.388219676185, -0.752905741908, 1.07814900443, -2.96744006924, 1.66211687676, -1.96690853195</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.06936016198, 0.275627130259, -0.663126818394, 1.11684887015, -3.1414957001, 1.65895816277, -1.97334883646</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.03312817198, 0.429521864925, -0.758768973236, 1.1000607687, -2.97621412435, 1.6909364622, -1.97979560109"/>
+      <extra name="reference_cost" type="double" value="6.40603095666"/>
+      <extra name="executed_cost" type="double" value="6.99642582983"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.82963048294"/>
+    </state>
+    <state nsecs="621087473" secs="2" sequence="119">
+      <desired>
+        <position>-1.04950771, 0.390811438766, -0.755889789595, 1.08304884423, -2.96925048057, 1.66858288144, -1.96580990328</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.04297283221, 0.27137157734, -0.682331884676, 1.15562525883, -3.1300699494, 1.64688758947, -1.92427288126</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.03353332887, 0.430359950839, -0.759453968625, 1.10499536412, -2.97595585426, 1.69641150063, -1.97848071453"/>
+      <extra name="reference_cost" type="double" value="6.40603095666"/>
+      <extra name="executed_cost" type="double" value="7.07342066243"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.66460232809"/>
+    </state>
+    <state nsecs="639363752" secs="2" sequence="120">
+      <desired>
+        <position>-1.05303555524, 0.393403201347, -0.758873837282, 1.08794868404, -2.97106089189, 1.67504888612, -1.96471127462</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.07266539013, 0.279308201033, -0.681831980373, 1.13653315726, -3.15211625828, 1.66237589219, -1.98978296261</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.03393848576, 0.431198036754, -0.760138964015, 1.10992995953, -2.97569758417, 1.70188653906, -1.97716582797"/>
+      <extra name="reference_cost" type="double" value="6.40603095666"/>
+      <extra name="executed_cost" type="double" value="7.11872247234"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.64678776264"/>
+    </state>
+    <state nsecs="657640031" secs="2" sequence="121">
+      <desired>
+        <position>-1.05656340049, 0.395994963927, -0.761857884968, 1.09284852384, -2.97287130322, 1.68151489079, -1.96361264595</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.02382465344, 0.282475281873, -0.706397316509, 1.17199444888, -3.06442889885, 1.66009915605, -1.81786252903</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.03434364265, 0.432036122668, -0.760823959404, 1.11486455495, -2.97543931408, 1.70736157749, -1.97585094141"/>
+      <extra name="reference_cost" type="double" value="6.47009839118"/>
+      <extra name="executed_cost" type="double" value="7.18324499577"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.61148270965"/>
+    </state>
+    <state nsecs="675916311" secs="2" sequence="122">
+      <desired>
+        <position>-1.06009124573, 0.398586726508, -0.764841932655, 1.09774836364, -2.97468171455, 1.68798089547, -1.96251401728</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.04995660004, 0.283837320747, -0.718795026522, 1.14628657752, -3.13591181563, 1.66891546381, -1.90415240752</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.03474879955, 0.432874208582, -0.761508954793, 1.11979915037, -2.97518104399, 1.71283661592, -1.97453605485"/>
+      <extra name="reference_cost" type="double" value="6.60816119611"/>
+      <extra name="executed_cost" type="double" value="7.20441521332"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.5614827089"/>
+    </state>
+    <state nsecs="694192590" secs="2" sequence="123">
+      <desired>
+        <position>-1.06361909098, 0.401178489089, -0.767825980342, 1.10264820344, -2.97649212587, 1.69444690014, -1.96141538862</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.07525576621, 0.281756936528, -0.674241341153, 1.15994547081, -3.14667775908, 1.68585840586, -1.94830744354</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.03515395644, 0.433712294497, -0.762193950182, 1.12473374579, -2.9749227739, 1.71831165435, -1.97322116829"/>
+      <extra name="reference_cost" type="double" value="6.65848984197"/>
+      <extra name="executed_cost" type="double" value="7.32656533644"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.62771046534"/>
+    </state>
+    <state nsecs="712468869" secs="2" sequence="124">
+      <desired>
+        <position>-1.06714693622, 0.403770251669, -0.770810028029, 1.10754804325, -2.9783025372, 1.70091290482, -1.96031675995</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-0.983060301131, 0.283016695351, -0.785959712086, 1.22551294656, -3.03070270915, 1.68338923945, -1.95591589877</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.03555911333, 0.434550380411, -0.762878945571, 1.12966834121, -2.9746645038, 1.72378669279, -1.97190628172"/>
+      <extra name="reference_cost" type="double" value="6.71174900979"/>
+      <extra name="executed_cost" type="double" value="7.42875550315"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.66557842866"/>
+    </state>
+    <state nsecs="730745149" secs="2" sequence="125">
+      <desired>
+        <position>-1.07067478147, 0.40636201425, -0.773794075716, 1.11244788305, -2.98011294853, 1.70737890949, -1.95921813128</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.10455558162, 0.297718285181, -0.69449468817, 1.13903876214, -3.17189659708, 1.70074152965, -1.99189097522</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.03596427022, 0.435388466325, -0.76356394096, 1.13460293663, -2.97440623371, 1.72926173122, -1.97059139516"/>
+      <extra name="reference_cost" type="double" value="6.71174900979"/>
+      <extra name="executed_cost" type="double" value="7.3291615136"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.76070692763"/>
+    </state>
+    <state nsecs="749021428" secs="2" sequence="126">
+      <desired>
+        <position>-1.07420262671, 0.40895377683, -0.776778123403, 1.11734772285, -2.98192335985, 1.71384491417, -1.95811950262</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.06853368387, 0.290998194126, -0.740459010455, 1.18571914937, -3.1478791223, 1.69374431919, -2.02310661413</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.03636942712, 0.436226552239, -0.764248936349, 1.13953753204, -2.97414796362, 1.73473676965, -1.9692765086"/>
+      <extra name="reference_cost" type="double" value="6.84360347688"/>
+      <extra name="executed_cost" type="double" value="7.51311074942"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="6.82166906819"/>
+    </state>
+    <state nsecs="767297707" secs="2" sequence="127">
+      <desired>
+        <position>-1.07773047196, 0.411545539411, -0.779762171089, 1.12224756265, -2.98373377118, 1.72031091885, -1.95702087395</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.09306163792, 0.302713391825, -0.725743413857, 1.17229435057, -3.1639558974, 1.70526529638, -2.03442346255</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.03677458401, 0.437064638154, -0.764933931738, 1.14447212746, -2.97388969353, 1.74021180808, -1.96796162204"/>
+      <extra name="reference_cost" type="double" value="6.95644378662"/>
+      <extra name="executed_cost" type="double" value="7.39369128644"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="7.04972438514"/>
+    </state>
+    <state nsecs="785573987" secs="2" sequence="128">
+      <desired>
+        <position>-1.0812583172, 0.414137301992, -0.782746218776, 1.12714740246, -2.98554418251, 1.72677692352, -1.95592224528</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.05253994585, 0.304579103068, -0.773340261623, 1.20821013541, -3.12805508906, 1.70898495295, -2.07136085505</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.0371797409, 0.437902724068, -0.765618927127, 1.14940672288, -2.97363142344, 1.74568684651, -1.96664673548"/>
+      <extra name="reference_cost" type="double" value="6.95644378662"/>
+      <extra name="executed_cost" type="double" value="7.53701324388"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="7.20371318609"/>
+    </state>
+    <state nsecs="814654784" secs="2" sequence="129">
+      <desired>
+        <position>-1.08139241933, 0.419429265476, -0.783701980236, 1.13454447772, -2.9859434409, 1.73034473202, -1.9583510926</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.13542399569, 0.315304789246, -0.743928998479, 1.17672811233, -3.1916571853, 1.76121563197, -1.99025130363</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.03750772505, 0.43858117457, -0.766173447204, 1.15340139536, -2.97342234765, 1.75011902048, -1.9655823035"/>
+      <extra name="reference_cost" type="double" value="7.05442662537"/>
+      <extra name="executed_cost" type="double" value="7.69349383563"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="7.38347277045"/>
+    </state>
+    <state nsecs="843735582" secs="2" sequence="130">
+      <desired>
+        <position>-1.08152652145, 0.42472122896, -0.784657741697, 1.14194155298, -2.98634269929, 1.73391254052, -1.96077993992</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.15242439674, 0.336479208954, -0.731933686135, 1.17707867297, -3.19643431463, 1.76872691407, -1.97718847798</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.0378357092, 0.439259625072, -0.766727967281, 1.15739606784, -2.97321327186, 1.75455119445, -1.96451787152"/>
+      <extra name="reference_cost" type="double" value="7.19328283519"/>
+      <extra name="executed_cost" type="double" value="7.88295717537"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="7.22093220428"/>
+    </state>
+    <state nsecs="872816379" secs="2" sequence="131">
+      <desired>
+        <position>-1.08166062358, 0.430013192444, -0.785613503157, 1.14933862824, -2.98674195768, 1.73748034901, -1.96320878724</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.11566019941, 0.334295940431, -0.805437245673, 1.22283928156, -3.13336615257, 1.79988328075, -1.82246445422</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.03816369335, 0.439938075574, -0.767282487357, 1.16139074032, -2.97300419608, 1.75898336842, -1.96345343955"/>
+      <extra name="reference_cost" type="double" value="7.18147943914"/>
+      <extra name="executed_cost" type="double" value="8.14158701897"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="7.14199782535"/>
+    </state>
+    <state nsecs="901897177" secs="2" sequence="132">
+      <desired>
+        <position>-1.0817947257, 0.435305155929, -0.786569264617, 1.15673570351, -2.98714121608, 1.74104815751, -1.96563763456</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.12557412911, 0.375501050007, -0.821223676002, 1.25368863346, -3.07566742095, 1.74124499391, -1.76977256765</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.0384916775, 0.440616526076, -0.767837007434, 1.16538541281, -2.97279512029, 1.76341554238, -1.96238900757"/>
+      <extra name="reference_cost" type="double" value="7.22778992355"/>
+      <extra name="executed_cost" type="double" value="8.11727652326"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="7.10314160958"/>
+    </state>
+    <state nsecs="930977974" secs="2" sequence="133">
+      <desired>
+        <position>-1.08192882782, 0.440597119413, -0.787525026078, 1.16413277877, -2.98754047447, 1.74461596601, -1.96806648188</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.0812255536, 0.321742685033, -0.866064128786, 1.23849495461, -3.10241441474, 1.80278284777, -1.86536249589</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.03881966165, 0.441294976578, -0.768391527511, 1.16938008529, -2.9725860445, 1.76784771635, -1.96132457559"/>
+      <extra name="reference_cost" type="double" value="7.26933752"/>
+      <extra name="executed_cost" type="double" value="8.23944891617"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="7.04108957946"/>
+    </state>
+    <state nsecs="960058772" secs="2" sequence="134">
+      <desired>
+        <position>-1.08206292995, 0.445889082897, -0.788480787538, 1.17152985403, -2.98793973286, 1.74818377451, -1.9704953292</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.14907550383, 0.36240951249, -0.740513479495, 1.21402112236, -3.19943955444, 1.787138725, -1.94615935006</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.03914764581, 0.44197342708, -0.768946047588, 1.17337475777, -2.97237696871, 1.77227989032, -1.96026014361"/>
+      <extra name="reference_cost" type="double" value="7.31564800441"/>
+      <extra name="executed_cost" type="double" value="7.63630278409"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="7.12650967389"/>
+    </state>
+    <state nsecs="989139569" secs="2" sequence="135">
+      <desired>
+        <position>-1.08219703207, 0.451181046381, -0.789436548998, 1.1789269293, -2.98833899126, 1.751751583, -1.97292417652</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.09162515933, 0.354242104934, -0.837102881987, 1.25435521053, -3.09017362491, 1.82427806586, -1.81186331352</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.03947562996, 0.442651877582, -0.769500567665, 1.17736943025, -2.97216789292, 1.77671206429, -1.95919571163"/>
+      <extra name="reference_cost" type="double" value="7.21564800292"/>
+      <extra name="executed_cost" type="double" value="8.17283574864"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="7.11026978865"/>
+    </state>
+    <state nsecs="18220367" secs="3" sequence="136">
+      <desired>
+        <position>-1.08233113419, 0.456473009865, -0.790392310459, 1.18632400456, -2.98873824965, 1.7553193915, -1.97535302383</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.23215450165, 0.432843873736, -0.688703999165, 1.1557425144, -3.10050394311, 1.87428180146, -1.95859518132</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.03980361411, 0.443330328084, -0.770055087741, 1.18136410273, -2.97195881714, 1.78114423826, -1.95813127966"/>
+      <extra name="reference_cost" type="double" value="7.19493732229"/>
+      <extra name="executed_cost" type="double" value="8.32837767527"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="7.16474458948"/>
+    </state>
+    <state nsecs="47301164" secs="3" sequence="137">
+      <desired>
+        <position>-1.08246523632, 0.46176497335, -0.791348071919, 1.19372107982, -2.98913750804, 1.7588872, -1.97778187115</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.07302174225, 0.319157124254, -0.798034623497, 1.31779739408, -3.04365692342, 1.79147976174, -1.85167183927</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.04013159826, 0.444008778586, -0.770609607818, 1.18535877521, -2.97174974135, 1.78557641223, -1.95706684768"/>
+      <extra name="reference_cost" type="double" value="7.25758044794"/>
+      <extra name="executed_cost" type="double" value="8.1680277586"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="7.22510487959"/>
+    </state>
+    <state nsecs="76381962" secs="3" sequence="138">
+      <desired>
+        <position>-1.08259933844, 0.467056936834, -0.792303833379, 1.20111815509, -2.98953676644, 1.7624550085, -1.98021071847</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.16432130135, 0.366722799647, -0.758580192012, 1.27042356333, -3.14649452241, 1.82231302928, -1.88277819612</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.04045958241, 0.444687229088, -0.771164127895, 1.18935344769, -2.97154066556, 1.7900085862, -1.9560024157"/>
+      <extra name="reference_cost" type="double" value="7.25758044794"/>
+      <extra name="executed_cost" type="double" value="8.76785619557"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="7.29825473577"/>
+    </state>
+    <state nsecs="105462759" secs="3" sequence="139">
+      <desired>
+        <position>-1.08273344057, 0.472348900318, -0.79325959484, 1.20851523035, -2.98993602483, 1.76602281699, -1.98263956579</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.10533594819, 0.318072496654, -0.75872399949, 1.32195363974, -3.12906223971, 1.77700804468, -1.9466343765</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.04078756656, 0.445365679591, -0.771718647972, 1.19334812018, -2.97133158977, 1.79444076016, -1.95493798372"/>
+      <extra name="reference_cost" type="double" value="7.25758044794"/>
+      <extra name="executed_cost" type="double" value="8.26256722212"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="7.41990294307"/>
+    </state>
+    <state nsecs="134543557" secs="3" sequence="140">
+      <desired>
+        <position>-1.08286754269, 0.477640863802, -0.7942153563, 1.21591230561, -2.99033528322, 1.76959062549, -1.98506841311</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.17460287156, 0.396206814375, -0.755042991289, 1.26507948976, -3.17195831336, 1.83081704729, -1.90331420981</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.04111555071, 0.446044130093, -0.772273168049, 1.19734279266, -2.97112251398, 1.79887293413, -1.95387355174"/>
+      <extra name="reference_cost" type="double" value="7.28943491355"/>
+      <extra name="executed_cost" type="double" value="8.35843101889"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="7.57532180473"/>
+    </state>
+    <state nsecs="163624354" secs="3" sequence="141">
+      <desired>
+        <position>-1.08300164481, 0.482932827286, -0.79517111776, 1.22330938087, -2.99073454161, 1.77315843399, -1.98749726043</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.07276311526, 0.376302014488, -0.817310075908, 1.33138221537, -3.0175447, 1.82156742814, -1.80702429489</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.04144353486, 0.446722580595, -0.772827688126, 1.20133746514, -2.97091343819, 1.8033051081, -1.95280911976"/>
+      <extra name="reference_cost" type="double" value="7.31159860268"/>
+      <extra name="executed_cost" type="double" value="8.76409112662"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="7.74312140048"/>
+    </state>
+    <state nsecs="192705152" secs="3" sequence="142">
+      <desired>
+        <position>-1.08313574694, 0.488224790771, -0.796126879221, 1.23070645614, -2.99113380001, 1.77672624249, -1.98992610775</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.13922042673, 0.371639350168, -0.793723692784, 1.28547686052, -3.18177245344, 1.8338227725, -1.95977901719</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.04177151901, 0.447401031097, -0.773382208202, 1.20533213762, -2.97070436241, 1.80773728207, -1.95174468779"/>
+      <extra name="reference_cost" type="double" value="7.34891209379"/>
+      <extra name="executed_cost" type="double" value="8.69210566208"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="7.75703508779"/>
+    </state>
+    <state nsecs="221785949" secs="3" sequence="143">
+      <desired>
+        <position>-1.08326984906, 0.493516754255, -0.797082640681, 1.2381035314, -2.9915330584, 1.78029405098, -1.99235495507</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.06059915216, 0.36678963812, -0.874004347838, 1.32866024209, -3.09019139745, 1.82335159578, -1.88419278728</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.04209950316, 0.448079481599, -0.773936728279, 1.2093268101, -2.97049528662, 1.81216945604, -1.95068025581"/>
+      <extra name="reference_cost" type="double" value="7.41216849908"/>
+      <extra name="executed_cost" type="double" value="8.60390960798"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="7.64108729362"/>
+    </state>
+    <state nsecs="250866747" secs="3" sequence="144">
+      <desired>
+        <position>-1.08340395119, 0.498808717739, -0.798038402141, 1.24550060666, -2.99193231679, 1.78386185948, -1.99478380238</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.15494747058, 0.398883604765, -0.753996141491, 1.2981203096, -3.18705921186, 1.8380754193, -1.95391596113</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.04242748732, 0.448757932101, -0.774491248356, 1.21332148258, -2.97028621083, 1.81660163001, -1.94961582383"/>
+      <extra name="reference_cost" type="double" value="7.445565667"/>
+      <extra name="executed_cost" type="double" value="8.34504366666"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="7.75155038387"/>
+    </state>
+    <state nsecs="279947544" secs="3" sequence="145">
+      <desired>
+        <position>-1.08353805331, 0.504100681223, -0.798994163602, 1.25289768193, -2.99233157519, 1.78742966798, -1.9972126497</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.1351664492, 0.403426992852, -0.830629400983, 1.30626617453, -3.04985301129, 1.91432783353, -1.84286669336</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.04275547147, 0.449436382603, -0.775045768433, 1.21731615506, -2.97007713504, 1.82103380398, -1.94855139185"/>
+      <extra name="reference_cost" type="double" value="7.445565667"/>
+      <extra name="executed_cost" type="double" value="9.42937495559"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="7.77536676079"/>
+    </state>
+    <state nsecs="309028342" secs="3" sequence="146">
+      <desired>
+        <position>-1.08367215543, 0.509392644708, -0.799949925062, 1.26029475719, -2.99273083358, 1.79099747648, -1.99964149702</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.12363140281, 0.377687309392, -0.761738316672, 1.36956099228, -3.14094195169, 1.80749044834, -1.9180692746</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.04308345562, 0.450114833105, -0.77560028851, 1.22131082755, -2.96986805925, 1.82546597794, -1.94748695987"/>
+      <extra name="reference_cost" type="double" value="7.53190965578"/>
+      <extra name="executed_cost" type="double" value="8.77964835614"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="7.7457832098"/>
+    </state>
+    <state nsecs="338109139" secs="3" sequence="147">
+      <desired>
+        <position>-1.08380625756, 0.514684608192, -0.800905686522, 1.26769183245, -2.99313009197, 1.79456528497, -2.00207034434</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.06362825469, 0.415613436752, -0.844183796062, 1.36913286375, -2.99204826299, 1.84477811566, -1.81948933643</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.04341143977, 0.450793283607, -0.776154808586, 1.22530550003, -2.96965898347, 1.82989815191, -1.9464225279"/>
+      <extra name="reference_cost" type="double" value="7.5701062642"/>
+      <extra name="executed_cost" type="double" value="9.36094796658"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="7.62507252768"/>
+    </state>
+    <state nsecs="367189937" secs="3" sequence="148">
+      <desired>
+        <position>-1.08394035968, 0.519976571676, -0.801861447983, 1.27508890772, -2.99352935037, 1.79813309347, -2.00449919166</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.11917232191, 0.386999001244, -0.772267496938, 1.3833269803, -3.13751958967, 1.82348843033, -1.91337574267</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.04373942392, 0.451471734109, -0.776709328663, 1.22930017251, -2.96944990768, 1.83433032588, -1.94535809592"/>
+      <extra name="reference_cost" type="double" value="7.61977762356"/>
+      <extra name="executed_cost" type="double" value="8.71784495935"/>
+      <extra name="use_grc" type="boolean" value="true"/>
+      <extra name="state_cost" type="double" value="7.50359259173"/>
+    </state>
+    <state nsecs="396270735" secs="3" sequence="149">
+      <desired>
+        <position>-1.0840744618, 0.52526853516, -0.802817209443, 1.28248598298, -2.99392860876, 1.80170090197, -2.00692803898</position>
+        <velocity/>
+        <acceleration/>
+      </desired>
+      <actual>
+        <position>-1.0840744618, 0.52526853516, -0.802817209443, 1.28248598298, -2.99392860876, 1.80170090197, -2.00692803898</position>
+        <velocity/>
+        <acceleration/>
+      </actual>
+      <extra name="reference_position" type="doublelist" value="-1.04406740807, 0.452150184611, -0.77726384874, 1.23329484499, -2.96924083189, 1.83876249985, -1.94429366394"/>
+      <extra name="reference_cost" type="double" value="7.66087033972"/>
+      <extra name="executed_cost" type="double" value="7.53433479741"/>
+      <extra name="use_grc" type="boolean" value="false"/>
+      <extra name="state_cost" type="double" value="7.53433479741"/>
+    </state>
+  </states>
+</trajectory>
